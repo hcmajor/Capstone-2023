@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Diary 61: December 1907-January 1908</title>
+            <author>Joseph Matia Svoboda</author>
+            <author>Alexander Svoboda</author>
+            <sponsor>Iraq National Manuscript Center</sponsor>
+            <funder>University of Washington Royalty Research Fund</funder>
+            <principal>Walter G. Andrews</principal>
+            <respStmt>
+               <resp>Arabic to English translation</resp>
+               <name>Nowf Allawi</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Newbook Digital Texts</publisher>
+            <idno type="Newbook Digital Texts ID"> </idno>
+            <availability status="restricted">
+               <p>
+                  Joseph Mathia Svoboda Diaries by Newbook Digital Texts is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. Based on a work at https://digital.lib.washington.edu/researchworks/handle/1773/34970. Permissions beyond the scope of this license may be available at http:/depts.washington.edu/ndth.
+               </p>
+            </availability>
+            <date when="2006">2006</date>
+         </publicationStmt>
+         <sourceDesc>
+            <p> </p>
+         </sourceDesc>
+      </fileDesc>
+    <encodingDesc>
+        <projectDesc>
+         <p>
+           The Svoboda Diaries Project began in 2006 as a project under the umbrella of the Ottoman Texts Archive Project (OTAP). Throughout the project’s history, we have focused on the digitization of the journals of two members of the Svoboda family, Joseph Svoboda and his son Alexander. The Joseph Mathia Svoboda diaries capture over 40 years of trade on the Tigris, life, politics, and the landscape of Ottoman Iraq through the perspective of a British steamship purser with a rich family history and local connections.
+         </p>
+         </projectDesc>
+         <schemaSpec ident="TEI">
+         </schemaSpec>
+     </encodingDesc>
+     <profileDesc>
+        <abstract>
+           <p>
+              In Diary 61, Joseph Svoboda details the events in his private life between December 1907 through January 1908, and Alexander Svoboda continues writing until the end of the year.  A majority of the diary consists of Joseph detailing the illnesses of various family members until he himself dies on January 19th, 1908.
+           </p>
+        </abstract>
+        <creation>
+           <date from="1907-12"  to="1908-01">December 1907 to January 1908</date>
+        </creation>
+        <langUsage>
+           <language ident="en-GB">English</language>
+           <language ident="ar-SA">Arabid</language>
+        </langUsage>
+     </profileDesc>
+  </teiHeader>
+  <text>
+     <body>
+        <pb n="41"/>
+            <div type="entry" n="1"> 
+               <p>
+                  <lb n="1"/>
+                  drizzly till 3 1/2 pm.
+               </p>
+               <p>  
+                   <lb n="2"/>
+                  The SS Launch Ishtar
+                  <lb n="3"/>
+                  arrived yesterday at 6 p.m.
+                  <lb n="4"/>
+                  The SS. Ressafah arrived 
+                  <lb n="5"/>
+                  the day before at 3 1/2 p.m.
+                  <lb n="6"/>
+                  I called also this afternoon on
+                  <lb n="7"/>
+                  the Yaghehis son Yosef, his mother
+                  <lb n="8"/>
+                  &amp; Louisa~
+                </p>
+                <p>
+                  <lb n="9"/>
+                  I got the wind &amp; indigestion
+                  <lb n="10"/>
+                  in my stomach since I took
+                  <lb n="11"/>
+                  breakfast, I ate Macaroni
+                  <lb n="12"/>
+                  stewed turnips, &amp; Pilav &amp; then
+                  <lb n="13"/>
+                  some cream with apple pruere. 
+                  <lb n="14"/>
+                  I have not had it since the
+                  <lb n="15"/>
+                  24 ulto; ~I lit the fire in
+                  <lb n="16"/>
+                  my stove as I feel so wet &amp;
+                  <lb n="17"/>
+                  cold from the rain &amp; walking
+                  <lb n="18"/>
+                  in the streets. ~ the whole
+                  <lb n="19"/>
+                  night I had the nausia, heart
+                  <lb n="20"/>
+                  burn &amp; wind~
+               </p>
+               <p>
+                  <lb n="21"/>
+                  North S.W. wind &amp; fine
+                  <lb n="22"/>
+                  cold weather~
+               </p>
+               <p>
+                  <lb n="23"/>
+                  I had the diarrhea at 5 am
+                  <lb n="24"/>
+                  it worked twice very loose, &amp;
+                  <lb n="25"/>
+                  the wind &amp; indigestion too,
+                  <lb n="26"/>
+                  I took my milk &amp; coffee &amp; 
+                  <lb n="27"/>
+                  2 eggs but with an appetite
+                  <lb n="28"/>
+                  Jassim went to town at 
+                  <lb n="29"/>
+                  8 am. to visit Kazumain,
+                  <lb n="30"/>
+                  I sent a letter to Alexander
+                  <lb n="31"/>
+                  At 9 I called on Eliza and
+               </p>
+            </div>
+        <pb n="42"/>
+         <div type="entry" n="1">
+            <p>            
+               <lb n="1"/>
+               Adoola,
+               <lb n="2"/>
+               I took breakfast Potato stew and
+               <add place="margin" n="2">1908</add>
+               <lb n="3"/>
+                then some leben &amp; some silnic
+               <lb n="4"/>
+               (Date juice) but this did not
+               <lb n="5"/>
+               agree with me &amp; again I got
+               <lb n="6"/>
+               the indigestion in the afternoon
+               <lb n="7"/>
+               with much thirst, I took some
+               <lb n="8"/>
+               lemonade but got worse and
+               <lb n="9"/>
+               inclined to vomit, the gastric
+               <lb n="10"/>
+               juice coming out &amp; so at 4
+               <lb n="11"/>
+               I forced myself &amp; vomited
+               <lb n="12"/>
+               sour water, again at 4 1/2 I
+               <lb n="13"/>
+               vomited all my breakfast,
+               <lb n="14"/>
+               &amp; felt very thirsty, but I felt
+               <lb n="15"/>
+               better &amp; layed down, till 6
+               <lb n="16"/>
+               when again I felt great thirst,
+               <lb n="17"/>
+               I took Cognac with water
+               <lb n="18"/>
+               but the thirst increased,
+               <lb n="19"/>
+               I remained without any dinner
+               <lb n="20"/>
+               at all &amp; did not leave my room,
+               <lb n="21"/>
+               I only sucked some sweet
+               <lb n="22"/>
+               lemons, but did not quinch my
+               <lb n="23"/>
+               thirst; At 11 1/2 my bowels
+                <lb n="24"/>
+                worked very loose, I felt better
+               <lb n="25"/>
+               and slept well~
+            </p>
+            <p>
+               <lb n="26"/>
+               Light N.W. &amp; fine, I feel the
+               <lb n="27"/>
+               thirst awful, &amp; the wind in
+               <lb n="28"/>
+               stomach &amp; intestines
+            </p>
+            <p>
+               <lb n="29"/>
+               The SS Mejidieh passed up
+               <lb n="30"/>
+               at 2 1/2 am.
+            </p>
+            <p>
+               <lb n="31"/>
+               My stomach is bad, wind
+               <lb n="32"/>
+               thirst &amp; indigestion, I took
+           </p>
+        </div>
+        <pb n="43"/>
+        <div type="entry" n="1">
+           <p>
+              <lb n="1"/>
+               my milk &amp; coffee &amp; 2 eggs but
+              <lb n="2"/>
+               without appetite; Bowels worked
+              <lb n="3"/>
+              like water; I feel very cold
+              <lb n="4"/>
+              &amp; thirsty; It must cold that
+              <lb n="5"/>
+              I caught in town while raining
+              <lb n="6"/>
+              yesterday morning in going to
+              <lb n="7"/>
+              Eliza &amp; Adoola~ I made an
+              <lb n="8"/>
+              infusion of Deul seed; orange
+              <lb n="9"/>
+              skins &amp; peppermint leaves &amp;
+              <lb n="10"/>
+              took it hot, I lit the stove
+              <lb n="11"/>
+              in my room, for I feel it very
+              <lb n="12"/>
+              cold; wind blowing sharp
+              <lb n="13"/>
+              N.W. &amp; got cloudy all over since
+              <lb n="14"/>
+              8 am.; At 11 it rained for
+              <lb n="15"/>
+              10 minutes &amp; blew fresh cold
+              <lb n="16"/>
+              N.W. I feel myself so cold &amp;
+              <lb n="17"/>
+              miserable with the stomach
+              <lb n="18"/>
+              ache &amp; indigestion, the thirst
+              <lb n="19"/>
+              is killing me, my tongue is
+              <lb n="20"/>
+              so white &amp; dry~
+           </p>
+           <p>
+              <lb n="21"/>
+              [Alexander's addendum] My poor father
+              <lb n="22"/>
+              died from his complaint
+              <lb n="23"/>
+              at 1 3/4 o'clock
+              <lb n="24"/>
+              a.m. on Sunday morning
+              <lb n="25"/>
+              the 19th January 1908.
+           </p>
+        </div>
+        <pb n="44"/>
+        <div type="entry" n="1">
+           <p>
+              <lb n="1"/>
+              On the 18th January 1908 I
+              <lb n="2"/>
+              received early in the morning
+              <lb n="3"/>
+              a letter unfinished from
+              <lb n="4"/>
+              my father from his country
+              <lb n="5"/>
+              house telling me that
+              <lb n="6"/>
+              he feels bad with his sto-
+              <lb n="7"/>
+              mach ache, but he hopes
+              <lb n="8"/>
+              to be alright &amp; came to town
+              <lb n="9"/>
+              on the 19th to visit some
+              <lb n="10"/>
+              friends with him, he also
+              <lb n="11"/>
+              tells me that mama &amp;
+              <lb n="12"/>
+              Rafael have been to see
+              <lb n="13"/>
+              him. At the end of the
+              <lb n="14"/>
+              letter Rafail writes that
+              <lb n="15"/>
+              my father couldn't finish
+              <lb n="16"/>
+              his letter as he was very
+              <lb n="17"/>
+              bad &amp; unable to write
+              <lb n="18"/>
+              since yesterday evening
+              <lb n="19"/>
+              &amp; all the night he was
+              <lb n="20"/>
+              much troubled &amp; I better
+              <lb n="21"/>
+              bring out a carriage to
+              <lb n="22"/>
+              carry him to town.
+           </p>
+        </div>
+        <pb n="45"/>
+        <div type= "entry" n="1">
+           <p>
+              <lb n="1"/>
+              At 8 a.m. the same day
+              <lb n="2"/>
+              I drove out by myself
+              <lb n="3"/>
+              &amp; found my father very
+              <lb n="4"/>
+              weak &amp; complaining from
+              <lb n="5"/>
+              intense ache &amp; cramp of his
+              <lb n="6"/>
+              stomach &amp; that he will never
+              <lb n="7"/>
+              be able to move &amp; go to
+              <lb n="8"/>
+              town. However, with all our
+              <lb n="9"/>
+              possible I decided him
+              <lb n="10"/>
+              to move &amp; helped him
+              <lb n="11"/>
+              to put on his clothes
+              <lb n="12"/>
+              &amp; walked slowly to the
+              <lb n="13"/>
+              carriage with mama
+              <lb n="14"/>
+              Rafail, but poor papa
+              <lb n="15"/>
+              knew that his attack was
+              <lb n="16"/>
+              very severe this time &amp; felt
+              <lb n="17"/>
+              awfully exhausted &amp; when
+              <lb n="18"/>
+              leaving his country house
+              <lb n="19"/>
+              he bid farewell to every place
+              <lb n="20"/>
+              as if he knew it was for
+              <lb n="21"/>
+              the last time he is seeing them.
+              <lb n="22"/>
+              At 10 a.m. we reahed
+              <lb n="23"/>
+              my house in town &amp; at
+           </p>
+        </div>
+        <pb n="46"/>
+        <div type="entry" n="1">
+           <p>
+              <lb n="1"/>
+              put papa in his room
+              <lb n="2"/>
+              which he had in my house.
+              <lb n="3"/>
+              He feels better for a while
+              <lb n="4"/>
+              &amp; didn't accept to have
+              <lb n="5"/>
+              a doctor till sunset when
+              <lb n="6"/>
+              he asked for him. We sent
+              <lb n="7"/>
+              after Dr Nizameldin but he is
+              <lb n="8"/>
+              also sick &amp; my father
+              <lb n="9"/>
+              feeling better we thought
+              <lb n="10"/>
+              that he is going to pass a
+              <lb n="11"/>
+              comfortable night.
+           </p>
+           <p>
+              <lb n="12"/>
+              Mama &amp; Marie left
+              <lb n="13"/>
+              him to sleep at 9 p.m.,
+              <lb n="14"/>
+              but I insisted to sleep
+              <lb n="15"/>
+              in his room. From 9 1/2
+              <lb n="16"/>
+              to nearly midnight papa
+              <lb n="17"/>
+              was <hi rend="underline">extremely</hi> weasy &amp;
+              <lb n="18"/>
+              tossing from a corner to an
+              <lb n="19"/>
+              other feeling his belly puffed
+              <lb n="20"/>
+              &amp; at 11 1/2 p.m. asked me
+              <lb n="21"/>
+              to call mama as he feels 
+           </p>
+        </div>
+        <pb n="47"/>
+        <div type="entry" n="1">
+           <p>
+              <lb n="1"/>
+              very bad. Mama &amp;
+              <lb n="2"/>
+              Marie came &amp; saw him
+              <lb n="3"/>
+              terribly aching &amp; feeling as his
+              <lb n="4"/>
+              stomach was cramped &amp; the
+              <lb n="5"/>
+              wind (which was in reality the
+              <lb n="6"/>
+              sucking of his stomach caused
+              <lb n="7"/>
+              by the bursting of his ulcers)
+              <lb n="8"/>
+              going up &amp; up to his heart.
+              <lb n="9"/>
+              He begged &amp; asked for a
+              <lb n="10"/>
+              doctor so I sent &amp; fetched
+              <lb n="11"/>
+              Dr. Zanko who arrived at
+              <lb n="12"/>
+              1 a.m. &amp; as soon as he saw
+              <lb n="13"/>
+              my unfortunate father he
+              <lb n="14"/>
+              told me that he was dan
+              <lb n="15"/>
+              gerous &amp; wanted the help
+              <lb n="16"/>
+              of another doctor after whom
+              <lb n="17"/>
+              we at once sent.
+           </p>
+           <p>
+              <lb n="18"/> 
+              Dr Zanko gave papa
+              <lb n="19"/>
+              a big dose of citrate of
+              <lb n="20"/>
+              Magnesia in order to
+              <lb n="21"/>
+              evacuate the wind which
+              <lb n="22"/>
+              fearfully puffed up his
+           </p>
+        </div>
+     </body>
+  </text>
+</TEI>
