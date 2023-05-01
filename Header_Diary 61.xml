@@ -19,15 +19,15 @@
          </titleStmt>
          <publicationStmt>
             <publisher>Newbook Digital Texts</publisher>
-            <idno type="Newbook Digital Texts ID"> </idno>
-            <availability status="restricted">
+            <idno type="Newbook Digital Texts ID"> </idno> <!-- error in the guidelines, D61 doesn't have this number -->
+            <availability status="unpublished"> <!--another error in the guidelines-->
                <p>
                   Joseph Mathia Svoboda Diaries by Newbook Digital Texts is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. Based on a work at https://digital.lib.washington.edu/researchworks/handle/1773/34970. Permissions beyond the scope of this license may be available at http:/depts.washington.edu/ndth.
                </p>
             </availability>
             <date when="2006">2006</date>
          </publicationStmt>
-         <sourceDesc>
+         <sourceDesc> <!--need to figure this one out-->
             <p> </p>
          </sourceDesc>
       </fileDesc>
@@ -37,7 +37,7 @@
            The Svoboda Diaries Project began in 2006 as a project under the umbrella of the Ottoman Texts Archive Project (OTAP). Throughout the project’s history, we have focused on the digitization of the journals of two members of the Svoboda family, Joseph Svoboda and his son Alexander. The Joseph Mathia Svoboda diaries capture over 40 years of trade on the Tigris, life, politics, and the landscape of Ottoman Iraq through the perspective of a British steamship purser with a rich family history and local connections.
          </p>
          </projectDesc>
-         <schemaSpec ident="TEI">
+         <schemaSpec ident="TEI"> <!--another problem area-->
          </schemaSpec>
      </encodingDesc>
      <profileDesc>
@@ -55,12 +55,12 @@
         </langUsage>
      </profileDesc>
   </teiHeader>
-  <text>
-     <body>
-        <pb n="41"/>
+ <text>
+    <body>
+       <pb n="41"/>
             <div type="entry" n="1"> 
                <p>
-                  <lb n="1"/>
+                 <lb n="1"/>
                   drizzly till 3 1/2 pm.
                </p>
                <p>  
@@ -254,7 +254,7 @@
            </p>
            <p>
               <lb n="21"/>
-              [Alexander's addendum] My poor father
+              [Alexander's addendum] My poor father <!--need to add in element for author change-->
               <lb n="22"/>
               died from his complaint
               <lb n="23"/>
@@ -262,14 +262,14 @@
               <lb n="24"/>
               a.m. on Sunday morning
               <lb n="25"/>
-              the 19th January 1908.
+              <date when="1908-01-19">the 19th January 1908.</date>
            </p>
         </div>
         <pb n="44"/>
         <div type="entry" n="1">
            <p>
               <lb n="1"/>
-              On the 18th January 1908 I
+              On <date when="1908-01-18">the 18th January 1908</date> I
               <lb n="2"/>
               received early in the morning
               <lb n="3"/>
@@ -285,7 +285,7 @@
               <lb n="8"/>
               to be alright &amp; came to town
               <lb n="9"/>
-              on the 19th to visit some
+              on <date when="1908-01-19">the 19th</date> to visit some
               <lb n="10"/>
               friends with him, he also
               <lb n="11"/>
@@ -465,6 +465,186 @@
               fearfully puffed up his
            </p>
         </div>
-     </body>
-  </text>
+       <pb n="48"/>
+       <div type="entry" n="1">
+          <p>
+             <lb n="1"/>
+             stomach, belly, breast &amp;
+             <lb n="2"/>
+             throat &amp; now his ears were
+             <lb n="3"/>
+             closed &amp; couldn't hear well,
+             <lb n="4"/>
+             but his strength was alright
+             <lb n="5"/>
+             &amp; he could speak till
+             <lb n="6"/>
+             1 1/2 a.m. He drunk the
+             <lb n="7"/>
+             dose twice, but the second
+             <lb n="8"/>
+             time he was suffocated
+             <lb n="9"/>
+             by the effervessing of the
+             <lb n="10"/>
+             medicine &amp; fell on his
+             <lb n="11"/>
+             bed nearly unconscious.
+          </p>
+          <p>
+             <lb n="12"/>
+             We ran all to his
+             <lb n="13"/>
+             bed &amp; the doctor declared
+             <lb n="14"/>
+             alas! that my poor beloved
+             <lb n="15"/>
+             papa was agonising &amp; death
+             <lb n="16"/>
+             was near. We shivered
+             <lb n="17"/>
+             at this declaration &amp; in
+             <lb n="18"/>
+             fact agony continued
+             <lb n="19"/>
+             till exactly 1 3/4 a.m.
+             <lb n="20"/>
+             when poor poor father
+          </p>
+       </div>
+       <pb n="49"/>
+       <div type="entry" n="1">
+          <p>
+             <lb n="1"/>
+             rendered his soul to
+             <lb n="2"/>
+             the Almighty his creature amid
+             <lb n="3"/>
+             our showers of fearful
+             <lb n="4"/>
+             tears &amp; indescribable confusion
+             <lb n="5"/>
+             &amp; heartrending!.....
+          </p>
+          <p>
+             <lb n="6"/>
+             Two or three minutes
+             <lb n="7"/>
+             after his death a great quantity
+             <lb n="8"/>
+             of blood poured out from
+             <lb n="9"/>
+             his mouth caused by
+             <lb n="10"/>
+             the bursting of his ulcer
+             <lb n="11"/>
+             in his stomach causing
+             <lb n="12"/>
+             the fatal peritonitis!
+          </p>
+       </div>
+       <pb n="50"/>
+       <div type="entry" n="1">
+          <p>
+             <lb n="1"/>
+             After the unfortunate
+             <lb n="2"/>
+             death of my father
+             <lb n="3"/>
+             I should like to continue
+             <lb n="4"/>
+             here in his diary book
+             <lb n="5"/>
+             the most unfortunate
+             <lb n="6"/>
+             events in our current
+             <lb n="7"/>
+             life, thus following
+             <lb n="8"/>
+             his desire of registering
+             <lb n="9"/>
+             what occurs during
+             <lb n="10"/>
+             our life.
+          </p>
+          <p>
+             <lb n="11"/>
+             <hi rend="underline"><date when="1908-12">Dec. 1908</date></hi>
+             <lb n="12"/>
+             I want to speak
+             <lb n="13"/>
+             here how curiously
+             <lb n="14"/>
+             I inherited from my
+             <lb n="15"/>
+             papa the terrible
+             <lb n="16"/>
+             stomache ache.
+             <lb n="17"/>
+             Six months after
+             <lb n="18"/>
+             his death I felt
+          </p>
+       </div>
+       <pb n="51"/>
+       <div type="entry" n="1">
+          <p>
+             <lb n="1"/>
+             gradually that my
+             <lb n="2"/>
+             stomach becoming very
+             <lb n="3"/>
+             weak &amp; unable to
+             <lb n="4"/>
+             digest the aliments.
+             <lb n="5"/>
+             I saw all the doctors
+             <lb n="6"/>
+             but without any success,
+             <lb n="7"/>
+             medicines render me
+             <lb n="8"/>
+             worse &amp; my state of health
+             <lb n="9"/>
+             is sinking daily. I do
+             <lb n="10"/>
+             not feel a local pain
+             <lb n="11"/>
+             but general easiness
+             <lb n="12"/>
+             &amp; awful state of mind
+             <lb n="13"/>
+             added by my impossibility
+             <lb n="14"/>
+             to eat or drink any
+             <lb n="15"/>
+             nourishing aliments.
+             <lb n="16"/>
+             The crisis of my stomache
+             <lb n="17"/>
+             ache comes twice or thrice
+             <lb n="18"/>
+             a month, thus being
+          </p>
+       </div>
+       <pb n="52"/>
+       <div type="entry" n="1">
+          <head><hi rend="underline">What I possess</hi></head>
+          <p>
+          <lb n="1"/>
+          <hi rend="underline">1. <date when="1912-12">January 1912</date></hi>
+          </p>
+          <table>
+             <row> <cell>The country house valued at</cell> <cell>??1500</cell> <cell></cell> <cell></cell> </row>
+             <row> <cell>in the arac business I have put in all</cell> <cell>"2500</cell> <cell></cell> <cell></cell> </row>
+             <row> <cell>I received from Panachi &amp; King interest with them</cell> <cell><hi rend="underline">1500</hi></cell> <cell></cell> <cell></cell> </row>
+             <row> <cell></cell> <cell>5500</cell> <cell></cell> <cell></cell> </row>
+             <row> <cell>From the sum I owe to the father</cell> <cell><hi rend="underline">300</hi></cell> <cell></cell> <cell></cell> </row>
+             <row> <cell></cell> <cell>5200</cell> <cell></cell> <cell></cell> </row>
+             <row> <cell>Besides the profit in arac which must be added &amp; reconed at about</cell> <cell><hi rend="underline">800</hi></cell> <cell></cell> <cell></cell> </row>
+             <row> <cell></cell> <cell>??6000</cell> <cell></cell> <cell></cell> </row>
+          </table>
+       </div>
+      </body>
+     </text>
 </TEI>
