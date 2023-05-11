@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../../Downloads/tei_sdp%20(19).rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+<teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Diary 61: December 1907-January 1908</title>
@@ -19,17 +17,14 @@
          </titleStmt>
          <publicationStmt>
             <publisher>Newbook Digital Texts</publisher>
-            <idno type="Newbook Digital Texts ID"> </idno> <!-- error in the guidelines, D61 doesn't have this number -->
-            <availability status="unpublished"> <!--another error in the guidelines-->
+            <idno type="NewbookDigitalTextsID"> </idno> <!-- email sent about this to UW Libraries -->
+            <availability status="unpublished">
                <p>
                   Joseph Mathia Svoboda Diaries by Newbook Digital Texts is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. Based on a work at https://digital.lib.washington.edu/researchworks/handle/1773/34970. Permissions beyond the scope of this license may be available at http:/depts.washington.edu/ndth.
                </p>
             </availability>
             <date when="2006">2006</date>
          </publicationStmt>
-         <sourceDesc> <!--need to figure this one out-->
-            <p> </p>
-         </sourceDesc>
       </fileDesc>
     <encodingDesc>
         <projectDesc>
@@ -37,7 +32,7 @@
            The Svoboda Diaries Project began in 2006 as a project under the umbrella of the Ottoman Texts Archive Project (OTAP). Throughout the project’s history, we have focused on the digitization of the journals of two members of the Svoboda family, Joseph Svoboda and his son Alexander. The Joseph Mathia Svoboda diaries capture over 40 years of trade on the Tigris, life, politics, and the landscape of Ottoman Iraq through the perspective of a British steamship purser with a rich family history and local connections.
          </p>
          </projectDesc>
-         <schemaSpec ident="TEI"> <!--another problem area-->
+       <schemaSpec ident="tei_sdp" start="TEI" prefix="tei_" targetLang="en" docLang="en"> <!--need to find someone to confirm this is accurate-->
          </schemaSpec>
      </encodingDesc>
      <profileDesc>
@@ -51,14 +46,15 @@
         </creation>
         <langUsage>
            <language ident="en-GB">English</language>
-           <language ident="ar-SA">Arabid</language>
+           <language ident="ar-SA">Arabic</language>
         </langUsage>
      </profileDesc>
-  </teiHeader>
+</teiHeader>
  <text>
     <body>
        <pb n="41"/>
-            <div type="entry" n="1"> 
+            <div type="entry" n="1">
+               <additions style="horizontal" n="19">Th 6.43</additions>
                <p>
                  <lb n="1"/>
                   drizzly till 3 1/2 pm.
@@ -134,6 +130,10 @@
             </div>
         <pb n="42"/>
          <div type="entry" n="1">
+            <additions style="horizontal" n="2">1908</additions>
+            <additions style="horizontal" n="4">Jany</additions>
+            <additions style="vertical" from="8" to="17">Indigestion &amp; vomiting</additions>
+            <additions style="horizontal" n="30">Th 6.34</additions>
             <p>            
                <lb n="1"/>
                Adoola,
