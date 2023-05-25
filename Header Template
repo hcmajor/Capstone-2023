@@ -17,7 +17,7 @@
          </titleStmt>
          <publicationStmt>
             <publisher>Newbook Digital Texts</publisher>
-            <idno type="NewbookDigitalTextsID"> </idno> <!-- email sent about this to UW Libraries -->
+            <idno type="NewbookDigitalTextsID"> </idno> <!-- email sent about this to UW Libraries, they never responded, still needs to be resolved as of June 2023-->
             <availability status="unpublished"><!--potentially change-->
                <p>
                   Joseph Mathia Svoboda Diaries by Newbook Digital Texts is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. Based on a work at https://digital.lib.washington.edu/researchworks/handle/1773/34970. Permissions beyond the scope of this license may be available at http:/depts.washington.edu/ndth.
@@ -32,7 +32,7 @@
            The Svoboda Diaries Project began in 2006 as a project under the umbrella of the Ottoman Texts Archive Project (OTAP). Throughout the project’s history, we have focused on the digitization of the journals of two members of the Svoboda family, Joseph Svoboda and his son Alexander. The Joseph Mathia Svoboda diaries capture over 40 years of trade on the Tigris, life, politics, and the landscape of Ottoman Iraq through the perspective of a British steamship purser with a rich family history and local connections.
          </p>
          </projectDesc>
-       <schemaSpec ident="tei_sdp" start="TEI" prefix="tei_" targetLang="en" docLang="en"> <!--need to find someone to confirm this is accurate-->
+       <schemaSpec ident="tei_sdp" start="TEI" prefix="tei_" targetLang="en" docLang="en">
          </schemaSpec>
      </encodingDesc>
      <profileDesc>
