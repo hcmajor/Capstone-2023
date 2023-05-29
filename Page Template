@@ -4,3 +4,85 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0"> <!--Names space that links TEI encoding and TEI Schema-->
 <!--encoding with TEI creates nested lines that automatcally indent--
 
+<pb n="16"/> <!--marks the begining of the page <pb> with the n="number" illustrating what page-->
+	<div type="entry" n="1"> <!--text division that identifies the next sections as 
+		<additions style="horizontal" n="2"><date when="1907">1907</date></additions>
+		<additions style="horizontal" n="3"><date when="1907-12">Decr</date></additions>
+		<additions style="horizontal" n="15">Th 6.48></additions> 
+		<additions style="horizontal" n="16"><time when="12:00:00">noon</time> 54</additions>
+		<additions style="horizontal" n="17"><time when="04:00:00">4 p.m</time>. 68</additions>
+	<p>
+					<lb n="1"/>
+					Seyd Dowd Effendi, son of Seyd
+					<lb n="2"/>
+					Selman late Nakib called
+					<lb n="3"/>
+					on us, also Kerop Setian
+					<lb n="4"/>
+					&amp; Duncan Alexander and
+					<lb n="5"/>
+					Rafooly Tanton~
+					<lb n="6"/>
+					Very cold I cannot stand
+					<lb n="7"/>
+					it although it is not so severe
+					<lb n="8"/>
+					but I find it unbearable
+					<lb n="9"/>
+					for me; I got a fire in a Mankala
+					<lb n="10"/>
+					in my room at night~
+	</p>
+		<p>
+					<lb n="11"/>
+					26 Thursd
+					<lb n="12"/>
+					Very light N.W.
+					<lb n="13"/>
+					breeze and
+					<lb n="14"/>
+					fine cold weather;
+		</p>
+		<p>
+					<lb n="15"/>
+					I sent to inquire how my sister Eliza
+					<lb n="16"/>
+					is &amp; they said she was the same as
+					<lb n="17"/>
+					before with much weakness;
+					<lb n="18"/>
+					At 9 Alexander &amp; I went on board 
+					<lb n="19"/>
+					the Mejidieh to visit Capt King
+					<lb n="20"/>
+					also Metty &amp; Jemil, we then
+					<lb n="21"/>
+					went to see my wife at Marines
+					<lb n="22"/>
+					house also Rufail &amp; Terooza,
+					<lb n="23"/>
+					we also called on sister Emilia
+					<lb n="24"/>
+					&amp; came home at <time when="12:00:00">noon</time>
+					<lb n="25"/>
+					I called to see sister Eliza,
+					<lb n="26"/>
+					she is the same but I see that
+					<lb n="27"/>
+					she is calmer &amp; looks better,
+					<lb n="28"/>
+					she took milk with vishy
+					<lb n="29"/>
+					water, a little champagne
+					<lb n="30"/>
+					&amp; the medicine, I came 
+					<lb n="31"/>
+					home at <time when="03:00:00">3 p.m.</time>
+					<lb n="32"/>
+					Monsing. J. Dhuke &amp; Pere
+					<lb n="33"/>
+					August called on us~
+					<lb n="34"/>
+					I sent today by Turkish
+				</p>
+	</div>
