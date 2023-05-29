@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?> <--TEI encoding/automatically populates in Oxygen-->
+      <--open document that needs to be encoded into Oxygen/Schema will not associate without something to associate it to-->
+<?xml-model href="../../Downloads/tei_sdp%20(20).rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <-TEI Schema specific to Svoboda Diaries/must associate in Oxygen-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0"> <--Names space that links TEI encoding and TEI Schema-->
+<--
