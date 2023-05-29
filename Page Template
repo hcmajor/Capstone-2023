@@ -6,12 +6,12 @@
 
 <pb n="16"/> <!--marks the begining of the page <pb> with the n="number" illustrating what page-->
 	<div type="entry" n="1"> <!--text division that identifies the next sections as 
-		<additions style="horizontal" n="2"><date when="1907">1907</date></additions>
-		<additions style="horizontal" n="3"><date when="1907-12">Decr</date></additions>
-		<additions style="horizontal" n="15">Th 6.48></additions> 
-		<additions style="horizontal" n="16"><time when="12:00:00">noon</time> 54</additions>
-		<additions style="horizontal" n="17"><time when="04:00:00">4 p.m</time>. 68</additions>
-	<p>
+		<additions style="horizontal" n="2"><date when="1907">1907</date></additions> <!--identifies style, line found, content of margin notes (not limited to just these identifiers)-->
+		<additions style="horizontal" n="3"><date when="1907-12">Decr</date></additions> <!--identifies style, line found, content of margin notes (not limited to just these identifiers)-->
+		<additions style="horizontal" n="15">Th 6.48></additions> <!--identifies style, line found, content of margin notes (not limited to just these identifiers)-->
+		<additions style="horizontal" n="16"><time when="12:00:00">noon</time> 54</additions> <!--identifies style, line found, content of margin notes (not limited to just these identifiers)-->
+		<additions style="horizontal" n="17"><time when="04:00:00">4 p.m</time>. 68</additions> <!--identifies style, line found, content of margin notes (not limited to just these identifiers)-->
+	<p> <!--marks a paragraph found in the text-->
 					<lb n="1"/>
 					Seyd Dowd Effendi, son of Seyd
 					<lb n="2"/>
@@ -32,8 +32,8 @@
 					for me; I got a fire in a Mankala
 					<lb n="10"/>
 					in my room at night~
-	</p>
-		<p>
+	</p> <!--marks the end of a paragraph-->
+		<p> <!--delinates a seperate paragraph within the text of the page (used to seperate a subsection within the text)-->
 					<lb n="11"/>
 					26 Thursd
 					<lb n="12"/>
@@ -42,8 +42,8 @@
 					breeze and
 					<lb n="14"/>
 					fine cold weather;
-		</p>
-		<p>
+		</p> <!--closes subsection separation-->
+		<p> <!--opens next paragraph section of text-->
 					<lb n="15"/>
 					I sent to inquire how my sister Eliza
 					<lb n="16"/>
@@ -84,5 +84,5 @@
 					August called on us~
 					<lb n="34"/>
 					I sent today by Turkish
-				</p>
+				</p> <!--closes paragraph text for the page-->
 	</div>
