@@ -2,7 +2,7 @@
       <!--open document that needs to be encoded into Oxygen/Schema will not associate without something to associate it to-->
 <?xml-model href="../../Downloads/tei_sdp%20(20).rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <!--TEI Schema specific to Svoboda Diaries/must associate in Oxygen-->
 <TEI xmlns="http://www.tei-c.org/ns/1.0"> <!--Names space that links TEI encoding and TEI Schema-->
-<!--encoding with TEI creates nested lines that automatcally indent--
+<!--encoding with TEI creates nested lines that automatcally indent-->
 
 <pb n="16"/> <!--marks the begining of the page <pb> with the n="number" illustrating what page-->
 	<div type="entry" n="1"> <!--text division that identifies the next sections as 
@@ -12,7 +12,7 @@
 		<additions style="horizontal" n="16"><time when="12:00:00">noon</time> 54</additions> <!--identifies style, line found, content of margin notes (not limited to just these identifiers)-->
 		<additions style="horizontal" n="17"><time when="04:00:00">4 p.m</time>. 68</additions> <!--identifies style, line found, content of margin notes (not limited to just these identifiers)-->
 	<p> <!--marks a paragraph found in the text-->
-					<lb n="1"/>
+					<lb n="1"/> <!--line breaks delinate between the lines of text within the body of the page/they are numbered for each line-->
 					Seyd Dowd Effendi, son of Seyd
 					<lb n="2"/>
 					Selman late Nakib called
@@ -85,4 +85,4 @@
 					<lb n="34"/>
 					I sent today by Turkish
 				</p> <!--closes paragraph text for the page-->
-	</div>
+	</div> <!--closes the text division-placed at the end of the page as margin notes can appear on any line of the text for the page so this encapsulates it-->
