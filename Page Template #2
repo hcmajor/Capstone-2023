@@ -1,14 +1,15 @@
-<!--TEI encoding file that automatically populates in Oxygen-->
+<?xml version="1.0" encoding="UTF-8"?>  <!--TEI encoding file that automatically populates in Oxygen-->
 <!--open document that needs to be incoded in Oxygen-->
 	<!--if using a Schema it will not associate without something populated into the document to link to-->
-<!--"associate" Schema being utilized in Oxygen-->
-<!--Namespace must be linked for TEI encoding and Schema will work together-->
+<?xml-model href="Svoboda%20Diaries%20Schema/tei_sdp%20(20).rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?  
+	<!--"associate" Schema being utilized in Oxygen-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">  <!--Namespace must be linked for TEI encoding and Schema will work together-->
 		<!--NOTE: encoding TEI creates nested lines that automatically indent but can be manually indented as well-->
 		<!--NOTE: every encoding action must have an <open></close> action-->
 			<!--Examples: full open/close action <open>text/note/date/time/etc in between actions</open
-						  abbreviated open/close action <open/> for single identifiers-text/note/date/time/etc follows action-->
+			abbreviated open/close action <open/> for single identifiers-text/note/date/time/etc follows action-->
 		<!--NOTE: Date and Time formatting are as follows DATE "YEAR-MM-DD" and TIME "HH:MM:SS"
-				**partial dates are accepted in the form of "YEAR-MM"**-->
+		**partial dates are accepted in the form of "YEAR-MM"**-->
 
 
 <text>  <!--encodes the entirety of the text identifies what format is being encoded-->
