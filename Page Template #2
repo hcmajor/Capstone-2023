@@ -1,0 +1,22 @@
+<!--TEI encoding file that automatically populates in Oxygen-->
+<!--open document that needs to be incoded in Oxygen-->
+	<!--if using a Schema it will not associate without something populated into the document to link to-->
+<!--"associate" Schema being utilized in Oxygen-->
+<!--Namespace must be linked for TEI encoding and Schema will work together-->
+		<!--NOTE: encoding TEI creates nested lines that automatically indent but can be manually indented as well-->
+		<!--NOTE: every encoding action must have an <open></close> action-->
+			<!--Examples: full open/close action <open>text/note/date/time/etc in between actions</open
+						  abbreviated open/close action <open/> for single identifiers-text/note/date/time/etc follows action-->
+		<!--NOTE: Date and Time formatting are as follows DATE "YEAR-MM-DD" and TIME "HH:MM:SS"
+				**partial dates are accepted in the form of "YEAR-MM"**-->
+
+
+<text>  <!--encodes the entirety of the text identifies what format is being encoded-->
+	<body>  <!--encodes the entirety of the text and indicates this is the body of what is being encoded-->
+		<pb n="#"/>  <!--single action that identifies the page break and page number-->
+			<div type="head/entry/margin/telegram/table" n="#"> <!--text division and type is identified along with it's location on the by by 				indicating the line number it is found on--> <!--NOTE: encodes the entirety of the text found on the page-->
+			<additions style="horizontal or vertical" n="#">TEXT GOES HERE</additions>  <uesed to identify how the margin notes may appear 					either horizontally or vertical and the line the note is found on-->
+				<p>  <!--marks the paragraphs in the prose-->  <!--NOTE: use this to seperate subsections from the rest of the text-->
+			
+			
+  
