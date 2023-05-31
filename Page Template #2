@@ -13,11 +13,11 @@
 
 
 <text>  <!--encodes the entirety of the text identifies what format is being encoded-->
-	<body>  <!--encodes the entirety of the text and indicates this is the body of what is being encoded-->
-		<pb n="#"/>  <!--single action that identifies the page break and page number-->
-			<div type="head/entry/margin/telegram/table" n="#"> <!--text division and type is identified along with it's location on the by by 				indicating the line number it is found on--> <!--NOTE: encodes the entirety of the text found on the page-->
-			<additions style="horizontal or vertical" n="#">TEXT GOES HERE</additions>  <uesed to identify how the margin notes may appear 					either horizontally or vertical and the line the note is found on-->
-				<p>  <!--marks the paragraphs in the prose-->  <!--NOTE: use this to seperate subsections from the rest of the text-->
+<body>  <!--encodes the entirety of the text and indicates this is the body of what is being encoded-->
+	<pb n="#"/>  <!--single action that identifies the page break and page number-->
+		<div type="head/entry/margin/telegram/table" n="#"> <!--text division and type is identified along with it's location on the page 			by indicating the line number it is found on--> <!--NOTE: encodes the entirety of the text found on the page-->
+		<additions style="horizontal or vertical" n="#">TEXT GOES HERE</additions>  <uesed to identify how the margin notes may appear 				either horizontally or vertical and the line the note is found on-->
+			<p>  <!--marks the paragraphs in the prose-->  <!--NOTE: use this to seperate subsections from the rest of the text-->
 			
 			
   
