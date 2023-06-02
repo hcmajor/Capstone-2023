@@ -5,19 +5,131 @@
 	<!--"associate" Schema being utilized in Oxygen-->
 <TEI xmlns="http://www.tei-c.org/ns/1.0">  <!--Namespace must be linked for TEI encoding and Schema will work together-->
 		<!--NOTE: encoding TEI creates nested lines that automatically indent but can be manually indented as well-->
-		<!--NOTE: every encoding action must have an <open></close> action-->
-			<!--Examples: full open/close action <open>text/note/date/time/etc in between actions</open
-			abbreviated open/close action <open/> for single identifiers-text/note/date/time/etc follows action-->
+		<!--NOTE: every encoding action must have an <open></close> action or be a self contained closing action-->
+   			<!--Examples: full open/close action <open>TEXT/NOTE/DATE/TIME/ETC</open>
+			self contained open/close action <open/> for single identifiers-->
 		<!--NOTE: Date and Time formatting are as follows DATE "YEAR-MM-DD" and TIME "HH:MM:SS"
 		**partial dates are accepted in the form of "YEAR-MM"**-->
+		<!--NOTE: Other issues that need encoding include gaps/damages/deletions of the text and are illustrated as follows:
+			<gap reason="torn/ineligible"/>
+   			<damage agent="water">INSERT LEGIBLE TEXT HERE</damage>
+   			<del rend="strikethrough">PARTIAL OR ASSUMED TRANSCRIPTION HERE</del>-->
 
 
 <text>  <!--encodes the entirety of the text identifies what format is being encoded-->
 <body>  <!--encodes the entirety of the text and indicates this is the body of what is being encoded-->
 	<pb n="#"/>  <!--single action that identifies the page break and page number-->
-		<div type="head/entry/margin/telegram/table" n="#"> <!--text division and type is identified along with it's location on the page 			by indicating the line number it is found on--> <!--NOTE: encodes the entirety of the text found on the page-->
-		<additions style="horizontal or vertical" n="#">TEXT GOES HERE</additions>  <uesed to identify how the margin notes may appear 				either horizontally or vertical and the line the note is found on-->
+		<div type="head/entry/telegram/table" n="#"> <!--text division and type is identified along with it's location on the page by indicating the line number it is found on--> 			<!--NOTE: encodes the entirety of the text found on the page-->
+			<additions style="horizontal or vertical" n="#">TEXT GOES HERE</additions> <!--uesed to identify how the margin notes may appear either horizontally or vertical 			  and the line the note is found on-->
 			<p>  <!--marks the paragraphs in the prose-->  <!--NOTE: use this to seperate subsections from the rest of the text-->
+				<lb n="#"/>  <!--line break illustrates where a line begins on a page and is numbered in a self closed action with TEXT following the tag-->
+  		</div> <!--closes the text division-->
+			</p>  <!--closes the paragraph-->
+</body>  <!--closes the body of the journal-->
+</text>  <!--closes the identfied text-->
+
+<!--SAMPLE PAGES THAT INCLUDE ALL OF THE ABOVE-->
+
+<text>
+	<body>
+		<pb n="13"/>
+		<div type="entry" n="1"> 
+	   	<additions style="horizontal" n="7">Th 6.46</additions>
+	   	<additions style="horizontal" n="8"><time when="12:00:00">noon</time> 52</additions>
+	   	<additions style="horizontal" n="9"><time when="04:00:00">4 p.m.</time> 54</additions>
+	   	<additions style="vertical" n="11">Indigestion &amp; vomiting</additions>
+            <p>	
+	                <lb n="1"/>
+	                the wind puffing up and
+	                <lb n="2"/>
+	                indigestion began with
+	                <lb n="3"/>
+	                heartburn, &amp; could not sleep
+	   	</p>
+	   	<p>
+	                <lb n="4"/>
+			24 Sund
+			<lb n="5"/>
+		        At about <time when="02:30:00">2 1/2</time> the <gap reason="illegible"/>
+	   	</p>
+	   	<p>
+	                <lb n="6"/>
+	                came up, nausea and
+	                <lb n="7"/>
+	                I vomited my dinner &amp;
+	                <lb n="8"/>
+	                then felt better, perhaps
+	                <lb n="9"/>
+	                the cold affected my stomach,
+	                <lb n="10"/>
+	                or the food. 
+	                <lb n="11"/>
+		        The SS Launch Ishtar
+		        <lb n="12"/>
+	                with the Indian mail arrived
+	                <lb n="13"/>
+	                last night~
+	                <lb n="14"/>
+		        I had arranged with Rufail
+		        <lb n="15"/>
+	                to go out to my house this
+	                <lb n="16"/>
+	                morning &amp; breakfast there
+	                <lb n="7"/>
+	                &amp; return in the evening in
+	                <lb n="18"/>
+	                the carriage but he <gap reason="illegible"/>
+	                <lb n="9"/>
+	                to tell me that he cannot
+	                <lb n="20"/>
+	                go; so I am going down
+	                <lb n="21"/>
+	                at noon in a Goffa, as I
+	                <lb n="22"/>
+	                require some clothes etc,
+	                <lb n="23"/>
+	            	At <time when="09:00:00">9</time> I went to see sister
+		        <lb n="24"/>
+	                Eliza, she is getting worse
+	                <lb n="25"/>
+	                &amp; weaker, not wanting to
+	                <lb n="26"/>
+	                take any nourishment at
+	                <lb n="28"/>
+	                all, she had no sleep &amp;
+	                <lb n="29"/>
+	                touched nothing since
+	                <lb n="30"/>
+	                yesterday; Dr. Mac Canaghy
+	                <lb n="31"/>
+	                came yesterday to see
+            </p>
+	   </div>
+
+<pb n="52"/>
+       <div type="entry" n="1">
+          <head><hi rend="underline">What I possess</hi></head>
+          <p>
+          <lb n="1"/>
+          <hi rend="underline">1. <date when="1912-12">January 1912</date></hi>
+          </p>
+          <table>
+             <row> <cell>The country house valued at</cell> <cell>??1500</cell> <cell></cell> <cell></cell> </row>
+             <row> <cell>in the arac business I have put in all</cell> <cell>"2500</cell> <cell></cell> <cell></cell> </row>
+             <row> <cell>I received from Panachi &amp; King interest with them</cell> <cell><hi rend="underline">1500</hi></cell> <cell></cell> <cell></cell> </row>
+             <row> <cell></cell> <cell>5500</cell> <cell></cell> <cell></cell> </row>
+             <row> <cell>From the sum I owe to the father</cell> <cell><hi rend="underline">300</hi></cell> <cell></cell> <cell></cell> </row>
+             <row> <cell></cell> <cell>5200</cell> <cell></cell> <cell></cell> </row>
+             <row> <cell>Besides the profit in arac which must be added &amp; reconed at about</cell> <cell><hi rend="underline">800</hi></cell> <cell></cell> <cell></cell> </row>
+             <row> <cell></cell> <cell>??6000</cell> <cell></cell> <cell></cell> </row>
+          </table>
+       </div>
+      </body>
+     </text>
+
+				
+			
+			
 			
 			
   
