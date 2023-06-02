@@ -8,7 +8,7 @@
 		<!--NOTE: every encoding action must have an <open></close> action or be a self contained closing action-->
    			<!--Examples: full open/close action <open>TEXT/NOTE/DATE/TIME/ETC</open>
 			self contained open/close action <open/> for single identifiers-->
-		<!--NOTE: Date and Time formatting are as follows DATE "YEAR-MM-DD" and TIME "HH:MM:SS"
+		<!--NOTE: Date and Time formatting are as follows DATE "YEAR-MM-DD" and TIME "HH:MM:SS"(24 HOUR Time Scale)
 		**partial dates are accepted in the form of "YEAR-MM"**-->
 		<!--NOTE: Other issues that need encoding include gaps/damages/deletions of the text and are illustrated as follows:
 			<gap reason="torn/ineligible"/>
