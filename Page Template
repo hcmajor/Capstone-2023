@@ -10,7 +10,7 @@
 		<additions style="horizontal" n="3"><date when="1907-12">Decr</date></additions> <!--identifies style, line found, content of margin notes (not limited to just these identifiers)-->
 		<additions style="horizontal" n="15">Th 6.48></additions> <!--identifies style, line found, content of margin notes (not limited to just these identifiers)-->
 		<additions style="horizontal" n="16"><time when="12:00:00">noon</time> 54</additions> <!--identifies style, line found, content of margin notes (not limited to just these identifiers)-->
-		<additions style="horizontal" n="17"><time when="04:00:00">4 p.m</time>. 68</additions> <!--identifies style, line found, content of margin notes (not limited to just these identifiers)-->
+		<additions style="horizontal" n="17"><time when="16:00:00">4 p.m</time>. 68</additions> <!--identifies style, line found, content of margin notes (not limited to just these identifiers)-->
 	<p> <!--marks a paragraph found in the text-->
 					<lb n="1"/> <!--line breaks delinate between the lines of text within the body of the page/they are numbered for each line-->
 					Seyd Dowd Effendi, son of Seyd
@@ -77,7 +77,7 @@
 					<lb n="30"/>
 					&amp; the medicine, I came 
 					<lb n="31"/>
-					home at <time when="03:00:00">3 p.m.</time>
+					home at <time when="15:00:00">3 p.m.</time>
 					<lb n="32"/>
 					Monsing. J. Dhuke &amp; Pere
 					<lb n="33"/>
