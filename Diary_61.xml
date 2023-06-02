@@ -1,0 +1,3384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../tei_sdp%20final.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Diary 61: December 1907-January 1908</title>
+            <author>Joseph Matia Svoboda</author>
+            <author>Alexander Svoboda</author>
+            <sponsor>Iraq National Manuscript Center</sponsor>
+            <funder>University of Washington Royalty Research Fund</funder>
+            <principal>Walter G. Andrews</principal>
+            <respStmt>
+                <resp>Arabic to English translation</resp>
+                <name>Nowf Allawi</name>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Newbook Digital Texts</publisher>
+            <idno type="NewbookDigitalTextsID"> </idno> <!-- email sent about this to UW Libraries -->
+            <availability status="unpublished">
+                <p>
+                    Joseph Mathia Svoboda Diaries by Newbook Digital Texts is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. Based on a work at https://digital.lib.washington.edu/researchworks/handle/1773/34970. Permissions beyond the scope of this license may be available at http:/depts.washington.edu/ndth.
+                </p>
+            </availability>
+            <date when="2006">2006</date>
+        </publicationStmt>
+    </fileDesc>
+    <encodingDesc>
+        <projectDesc>
+            <p>
+                The Svoboda Diaries Project began in 2006 as a project under the umbrella of the Ottoman Texts Archive Project (OTAP). Throughout the project’s history, we have focused on the digitization of the journals of two members of the Svoboda family, Joseph Svoboda and his son Alexander. The Joseph Mathia Svoboda diaries capture over 40 years of trade on the Tigris, life, politics, and the landscape of Ottoman Iraq through the perspective of a British steamship purser with a rich family history and local connections.
+            </p>
+        </projectDesc>
+        <schemaSpec ident="tei_sdp" start="TEI" prefix="tei_" targetLang="en" docLang="en">
+        </schemaSpec>
+    </encodingDesc>
+    <profileDesc>
+        <abstract>
+            <p>
+                In Diary 61, Joseph Svoboda details the events in his private life between December 1907 through January 1908, and Alexander Svoboda continues writing until the end of the year.  A majority of the diary consists of Joseph detailing the illnesses of various family members until he himself dies on January 19th, 1908.
+            </p>
+        </abstract>
+        <creation>
+            <date from="1907-12"  to="1908-01">December 1907 to January 1908</date>
+        </creation>
+        <langUsage>
+            <language ident="en-GB">English</language>
+            <language ident="ar-SA">Arabic</language>
+        </langUsage>
+    </profileDesc>
+</teiHeader>
+    <text>
+	<body>
+	    <pb n="1"/> <!-- Page 1--> <!-- This appears to actually be from the previous diary but it was in the transcript so i included it the actual jounral seems to start at page 3-->
+                <div type="entry" n="1">
+                    <p>
+                        <lb n="1"/>
+                            continued from Diary
+                        <lb n="2"/>
+                            No.60 of 1907;
+                    </p>
+                    <p>
+                        <lb n="1"/>
+                            Diary NR 61
+                        <lb n="2"/>
+                        1907/08
+                    </p>
+                </div>
+            <pb n="2"/> <!-- Page 2-->
+                <div type="entry" n="1">
+                    <p>
+                        <lb n="1"/>
+                        <date when ="1908-01">January 1908</date>
+                    </p>
+                        <table>
+                            <row> <cell>500</cell> <cell>Rufail</cell> <cell></cell> <cell></cell> </row>
+                            <row> <cell>500</cell> <cell>Candida Suakhander</cell> <cell></cell> <cell></cell> </row>
+                            <row> <cell>500</cell> <cell>Awasha Pachachy</cell> <cell></cell> <cell></cell> </row>
+                            <row> <cell>500</cell> <cell>Eliahoo Denoos</cell> <cell></cell> <cell></cell> </row>
+                            <row> <cell>500</cell> <cell>Naman Pachachy</cell> <cell></cell> <cell></cell> </row>
+                            <row> <cell>325</cell> <cell>_Dto_ Dto_</cell> <cell></cell> <cell></cell> </row>
+                            <row> <cell>150</cell> <cell>Rezooki Nakar</cell> <cell></cell> <cell></cell> </row>
+                            <row> <cell>150</cell> <cell>Seyd Ali Zowayed</cell> <cell></cell> <cell></cell> </row>
+                            <row> <cell>300</cell> <cell>Rezooki Sayegh</cell> <cell></cell> <cell></cell> </row>
+                            <row> <cell>120</cell> <cell>Lent to Alexander</cell> <cell></cell> <cell></cell> </row>
+                        	<row> <cell><hi rend="underline">200</hi></cell> <cell>Cash</cell> <cell></cell> <cell></cell> </row>
+                            <row> <cell>3,695</cell> <cell> </cell> <cell></cell> <cell></cell> </row>
+                        </table>
+                </div>
+            <pb n="3"/> <!-- Page 3-->
+                <div type="entry" n="1">
+                    <additions style="horizontal" n="1">Th 6.46</additions>
+                    <additions style="horizontal" n="2"><date when ="1907">1907</date></additions>
+                    <additions style="horizontal" n="7"><time when="12:00:00">noon</time> 62</additions>
+                    <additions style="horizontal" n="8"><time when="16:00:00">4 p.m.</time> 64</additions>
+                    <p>
+                        <lb n="1"/>
+                        <date when="1907-12-18">18 Wednes</date>
+                        <lb n="2"/>
+                        I arrived from my house at <time when="14:30:00">2 2/4</time>
+                        <lb n="3"/>
+                        p.m. walking, found Cecile
+                        <lb n="4"/>
+                        being shifted to an attic
+                        <lb n="5"/>
+                        room, but she did not like
+                        <lb n="6"/>
+                        the change; her fever is very
+                        <lb n="7"/>
+                        high again more than any
+                        <lb n="8"/>
+                        day 41 <gap reason="illegible"/> Cent. &amp; is restless with 
+                        <lb n="9"/>
+                        pain below the neck on the chest;
+                        <lb n="10"/>
+                        Alexander &amp; Marie much
+                        <lb n="11"/>
+                        alarmed &amp; weeping; She
+                        <lb n="12"/>
+                        wont take any milk or
+                        <lb n="13"/>
+                        other aliment~ at <time when="16:00:00">4</time> she
+                        <lb n="14"/>
+                        felt more composing &amp; drowsy.
+                        <lb n="15"/>
+                        She slept a little, she is getting
+                        <lb n="16"/>
+                        weak though;~ at <time when="16:15:00">4 1/4 </time>
+                        <lb n="17"/>
+                        Nizam el Din came &amp; examined
+                        <lb n="18"/>
+                        &amp; tapped Cecile, he found that
+                        <lb n="19"/>
+                        all the organs are sound &amp;
+                        <lb n="20"/>
+                        not affected the least, such
+                        <lb n="21"/>
+                        as the heart, liver, kidneys etc
+                        <lb n="22"/>
+                        except the seat of lung where
+                        <lb n="23"/>
+                        the pneumonia exists on one
+                        <lb n="24"/>
+                        side (the right), this proved
+                        <lb n="25"/>
+                        that the malady had not
+                        <lb n="26"/>
+                        been complicated or
+                    </p>
+                </div>
+            <pb n="4"/> <!-- Page 4-->
+                <div type="entry" n="1">
+                    <additions style="horizontal" n="1"><date when ="1907">1907</date></additions>
+                    <additions style="horizontal" n="2">Decr</additions>
+                    <p>
+                        <lb n="1"/>
+                        affected any other part which
+                        <lb n="2"/>
+                        is a good sign, the temperature
+                        <lb n="3"/>
+                        of the fever is the same as
+                        <lb n="4"/>
+                        this morning Vg 40 1/4,
+                        <lb n="5"/>
+                        he prescribed the same medicine
+                        <lb n="6"/>
+                        as Ipecanuanha Ammonia etc
+                        <lb n="7"/>
+                        to be taken 3 times every 3
+                        <lb n="8"/>
+                        hours; Enima &amp; friction as
+                        <lb n="9"/>
+                        usual &amp; hopes that tomorrow
+                        <lb n="10"/>
+                        or the day after an ammilionatia
+                        <lb n="11"/>
+                        will be shown;~ But
+                        <lb n="12"/>
+                        Marie is mad &amp; she began
+                        <lb n="13"/>
+                        to weep &amp; got into an awful
+                        <lb n="14"/>
+                        state of mind; &amp; nearly fainting
+                        <lb n="15"/>
+                        Dr. Nizam el Din tried very much
+                        <lb n="16"/>
+                        to assure her of Cecile's malady
+                        <lb n="17"/>
+                        not being serious &amp; to calm
+                        <lb n="18"/>
+                        her down but to no use, She
+                        <lb n="19"/>
+                        would have him come again
+                        <lb n="20"/>
+                        at night time which he promised
+                        <lb n="21"/>
+                        to do so~ Towards <time when="17:00:00">5 p.m.</time>
+                        <lb n="22"/>
+                        Cecile was very calm and
+                        <lb n="23"/>
+                        the fever aborted &amp; she slept
+                        <lb n="24"/>
+                        quietly;~ At <time when="21:00:00">9</time> Dr Nizam el
+                        <lb n="25"/>
+                        Din came but he did see her
+                        <lb n="26"/>
+                        we sat in the siting room
+                        <lb n="27"/>
+                        and told hm that Cecile was
+                        <lb n="28"/>
+                        asleep &amp; reposed;
+                    </p>
+                </div>
+            <pb n="5"/> <!-- Page 5-->
+                <div type="entry" n="1">
+                    <additions style="horizontal" n="7">Th 6.64</additions>
+                    <additions style="horizontal" n="8"><time when="12:00:00">noon</time> 63</additions>
+                    <additions style="horizontal" n="9"><time when="16:00:00">4 p.m.</time> 65</additions>
+                    <p>
+                        <lb n="1"/>
+                        He left at <time when="22:00:00">10</time> quite satisfied.
+                        <lb n="2"/>
+                        Fresh S. Ely wind blowing
+                        <lb n="3"/>
+                        all the night~
+                    </p>
+                    <p>
+                        <lb n="4"/>
+                        <date when="1907-12-19">19 Thursd</date>
+                        <lb n="5"/>
+                        Strong S. Ely wind &amp;
+                        <lb n="6"/>
+                        cloudy weather;
+                    </p>
+                    <p>
+                        <lb n="7"/>
+                        Cecile slept well till <time when="02:00:00">2 a.m.</time>,
+                        <lb n="8"/>
+                        she is much better, her
+                        <lb n="9"/>
+                        bowels worked by an injection
+                        <lb n="10"/>
+                        &amp; seems to feel much relief,
+                        <lb n="11"/>
+                        she is composed, has appetite,
+                        <lb n="12"/>
+                        but the fever came on the
+                        <lb n="13"/>
+                        same temperature 40°.
+                        <lb n="14"/>
+                        Dr. Nizam el Din came at <time when="08:00:00">8</time>
+                        <lb n="15"/>
+                        he examined her &amp; found
+                        <lb n="16"/>
+                        an advance in recovery &amp;
+                        <lb n="17"/>
+                        ordered the same medicine,
+                        <lb n="18"/>
+                        also injection at <time when="12:00:00">noon</time>, &amp;
+                        <lb n="19"/>
+                        <gap reason="illegible"/> &amp; a change of places
+                        <lb n="20"/>
+                        for few hours; she takes
+                        <lb n="21"/>
+                        some broth, milk, oranges,
+                        <lb n="22"/>
+                        and he also ordered a fire
+                        <lb n="23"/>
+                        to be put in the room to
+                        <lb n="24"/>
+                        warm it;~
+                    </p>
+                    <p>
+                        <lb n="25"/>
+                        I called to see sister Eliza who
+                        <lb n="26"/>
+                        is still very weak &amp; has not slept
+                        <lb n="27"/>
+                        last night at all, she does not
+                        <lb n="28"/>
+                        eat anything, Dr. Zakhans has
+                        <lb n="29"/>
+                        ordered an epema as she is
+                        <lb n="30"/>
+                        constipated~ I also called
+                        <lb n="31"/>
+                        on Menusha &amp; Ganie house
+                        <lb n="32"/>
+                        at <time when="10:00:00">10</time>, founds Rufail Sayegh
+                    </p>
+                </div>
+            <pb n="6"/> <!-- Page 6-->
+                <div type="entry" n="1">
+                    <additions style="horizontal" n="2"><date when ="1907">1907</date></additions>
+                    <additions style="horizontal" n="3">Decr</additions>
+                    <p>
+                        <lb n="1"/>
+                        Cecile was shifted to my room
+                        <lb n="2"/>
+                        for two hours &amp; took her back
+                        <lb n="3"/>
+                        again, her fever still continues
+                        <lb n="4"/>
+                        an injection was made and
+                        <lb n="1"/>
+                        the medicine administered,
+                        <lb n="1"/>
+                        But she got restless at <time when="11:00:00">11 am</time>,
+                        <lb n="1"/>
+                        she wont take anything and
+                        <lb n="1"/>
+                        complains of heat &amp; pain on
+                        <lb n="1"/>
+                        the right side, again Alexander
+                        <lb n="1"/>
+                        &amp; Marie were mad and
+                        <lb n="1"/>
+                        weeping; Cecile wanted the
+                        <lb n="1"/>
+                        doctor Nizam el Din to come,
+                        <lb n="1"/>
+                        they sent for him at <time when="13:00:00">1 p.m.</time>
+                        <lb n="1"/>
+                        Today being the birthday of
+                        <lb n="1"/>
+                        the Emperor of Russia Nicola
+                        <lb n="1"/>
+                        the II, Mr Mashkow The Russian
+                        <lb n="1"/>
+                        Consul had a reception.
+                        <lb n="1"/>
+                        Dr. Nizam el Din came at <time when="15:00:00">3 p.m.</time>
+                        <lb n="1"/>
+                        saw Cecile &amp; <gap reason="illegible"/> her, he
+                        <lb n="1"/>
+                        says that there is some change
+                        <lb n="1"/>
+                        for the better since this morning,
+                        <lb n="1"/>
+                        &amp; hopes if she continues so,
+                        <lb n="1"/>
+                        in 3 days more everything will
+                        <lb n="1"/>
+                        pass; he prescribed the same
+                        <lb n="1"/>
+                        medicine of Ipecagnomtre &amp;
+                        <lb n="1"/>
+                        carbonate of ammonia &amp; the
+                        <lb n="1"/>
+                        same treatment, &amp; will come
+                        <lb n="1"/>
+                        again at <time when="21:00:00">9 p.m.</time> &amp; tomorrow
+                        <lb n="1"/>
+                        will bring Dr. Macconaghi
+                        <lb n="1"/>
+                        if we want~
+                    </p>
+                    <p>
+                        <lb n="1"/>
+                        Monsingeur Jean Drnex
+                    </p>
+                </div>
+            <pb n="7"/> <!-- Page 7-->
+                <div type="entry" n="1">
+                    <additions style="horizontal" n="15">Th 6.52</additions>
+                    <additions style="horizontal" n="16"><time when="12:00:00">noon</time> 54</additions>
+                    <additions style="horizontal" n="17"><time when="16:00:00">4 p.m.</time> 53</additions>
+                    <p>
+                        <lb n="1"/>
+                        also called to see Cecile,
+                        <lb n="2"/>
+                        She felt quieter at <time when="16:00:00">4 p.m.</time>
+                        <lb n="3"/>
+                        &amp; is dozing off to sleep.
+                        <lb n="4"/>
+                        The SS Blosse Lynch arrived
+                        <lb n="5"/>
+                        at <time when="17:00:00">5 p.m.</time>~
+                        <lb n="6"/>
+                        Dr. Nizam el Din came
+                        <lb n="7"/>
+                        again at <time when="21:00:00">9</time>, but he did not
+                        <lb n="8"/>
+                        visit Cecile as she was
+                        <lb n="9"/>
+                        asleep &amp; quiet, he left at <time when="22:00:00">10.</time>
+                        <lb n="10"/>
+                        Weather  cloudy &amp; S. Ely
+                        <lb n="11"/>
+                        wind-
+                        <lb n="12"/>
+                    </p>
+                    <p>
+                        <lb n="13"/>
+                        <date when="1907-12-20">20 Frid</date>
+                        <lb n="14"/>
+                        At <time when="01:00:00">1 a.m.</time> it rained for
+                        <lb n="15"/>
+                        about 1/2 hour, drizzly;~
+                        <lb n="16"/>
+                        Cecile is sleeping well and
+                        <lb n="17"/>
+                        very quiet, I did not got to see
+                        <lb n="18"/>
+                        her at Alexander &amp; Marie for
+                        <lb n="19"/>
+                        fear of disturbing them,
+                        <lb n="20"/>
+                        at <time when="06:00:00">6</time> I went &amp; found Cecile
+                        <lb n="21"/>
+                        much better, she has very
+                        <lb n="22"/>
+                        little fever, her pulse is 100 per
+                        <lb n="23"/>
+                        minute, temperature of fever 
+                        <lb n="24"/>
+                        38 1/2°, her breath is 32 per
+                        <lb n="25"/>
+                        minute; She looks more
+                        <lb n="26"/>
+                        cheerful &amp; desiring to take
+                        <lb n="27"/>
+                        some nourishment; We
+                        <lb n="28"/>
+                        were all so very glad and
+                        <lb n="29"/>
+                        happy;~ Dr. Nizam el Din
+                        <lb n="30"/>
+                        came at <time when="08:00:00">8 a.m.</time> &amp; found Cecile
+                        <lb n="31"/>
+                        much better and he sounded
+                    </p>
+                </div>
+            <pb n="8"/> <!-- Page 8-->
+                <div type="entry" n="1">
+                    <additions style="horizontal" n="2"><date when ="1907">1907</date></additions>
+                    <additions style="horizontal" n="3">Decr</additions>
+                    <p>
+                        <lb n="1"/>
+                        ha, he found that the part behind
+                        <lb n="2"/>
+                        on the shoulders has quite disappeared
+                        <lb n="3"/>
+                        &amp; that as the fore part or chest
+                        <lb n="4"/>
+                        a very little of it exists, and as
+                        <lb n="5"/>
+                        today is the 6th day, all danger
+                        <lb n="6"/>
+                        has passed, but great care
+                        <lb n="7"/>
+                        must be taken from cold
+                        <lb n="8"/>
+                        or draft, &amp; the same treatment
+                        <lb n="9"/>
+                        as before to be resorted to.
+                        <lb n="10"/>
+                        He went away very satisfied.
+                        <lb n="11"/>
+                        Weather cleared up and
+                        <lb n="12"/>
+                        became very fine &amp; cold.
+                        <lb n="13"/>
+                        Rafooly, Tanton, Terrooza, my
+                        <lb n="14"/>
+                        niece etc call in~
+                   </p>
+                   <p>
+                        <lb n="15"/>
+                       At <time when="15:00:00">3 p.m.</time> I went to see my Sister
+                        <lb n="16"/>
+                        Eliza, she is still very weak
+                        <lb n="17"/>
+                        &amp; unable to eat anything and
+                        <lb n="18"/>
+                        feels her stomach out of order
+                        <lb n="19"/>
+                        she cannot lift her head and
+                        <lb n="20"/>
+                        always drowsy, Dr. Zakhoor
+                        <lb n="21"/>
+                        is attending her~
+                     </p>
+                     <p>
+                        <lb n="22"/>
+                        Rufail Sayegh, Rezooki Andria,
+                        <lb n="23"/>
+                        Madam Ezra Daniel, the french
+                        <lb n="24"/>
+                        nuns etc called~
+                        <lb n="25"/>
+                        Dr. Nizam el Din came at
+                        <lb n="26"/>
+                         <time when="16:30:00">4 1/2</time>, he found Cecile better,
+                        <lb n="27"/>
+                        her fever 39° increased
+                        <lb n="28"/>
+                        1/2 degree this afternoon                      
+                    </p>
+                </div>
+            <pb n="9"/> <!-- Page 9-->
+                <div type="entry" n="1">
+                    <additions style="horizontal" n="18">Th 6.50</additions>
+                    <additions style="horizontal" n="19"><time when="12:00:00">noon</time> 56</additions>
+                    <additions style="horizontal" n="20"><time when="16:00:00">4 p.m.</time> 57</additions>
+                    <p>
+                        <lb n="1"/>
+                        &amp; prescribed the same medicine
+                        <lb n="2"/>
+                        as before &amp; said tomorrow
+                        <lb n="3"/>
+                        she will feel still better.
+                        <lb n="4"/>
+                        Weather cold &amp; very fine
+                    </p>
+                    <p>
+                        <lb n="5"/>
+                        Mr. Richarz called at <time when="17:30:00">5 1/2</time>
+                        <lb n="6"/>
+                        to visit Alexander &amp; Marie, he
+                        <lb n="7"/>
+                        does not know of Cecile's illness,
+                        <lb n="8"/>
+                        I sat only with him; Alexander
+                        <lb n="9"/>
+                        &amp; Marie were in the room
+                        <lb n="10"/>
+                        with Cecile &amp; did not come
+                        <lb n="11"/>
+                        nor my wife, he left at <time when="18:00:00">6</time>;
+                        <lb n="12"/>
+                        Cecile slept at <time when="19:00:00">7</time> &amp; is very
+                        <lb n="13"/>
+                        quiet, with very little fever.
+                        <lb n="14"/>
+                        <date when="1907-12-21">21 Satur</date>
+                        <lb n="15"/>
+                        Light N.W. &amp; very fine
+                        <lb n="16"/>
+                        cold weather~
+                    </p>
+                    <p>
+                        <lb n="17"/>
+                        Cecile is well, has no fever
+                        <lb n="18"/>
+                        but is very weak, &amp; wants
+                        <lb n="19"/>
+                        to eat; she slept well also.
+                        <lb n="20"/>
+                        Dr. Nizam el Din came to see
+                        <lb n="21"/>
+                        her, he found her well and
+                        <lb n="22"/>
+                        no trace is left of the pneumonia
+                        <lb n="23"/>
+                        on her chest her temperature
+                        <lb n="24"/>
+                        fell to 37° which is lowest
+                        <lb n="25"/>
+                        normal state he recommended
+                        <lb n="26"/>
+                        a spoonful of Champagne with
+                        <lb n="27"/>
+                        the tea &amp; milk, which she
+                        <lb n="28"/>
+                        took~ my wife wanted
+                        <lb n="29"/>
+                        him to see her about her
+                        <lb n="30"/>
+                        cold in chest &amp; has cough
+                        <lb n="31"/>
+                        &amp; pain, he examined                       
+                    </p>
+                </div>
+            <pb n="10"/> <!-- Page 10-->
+                <div type="entry" n="1">
+                    <additions style="horizontal" n="1"><date when ="1907">1907</date></additions>
+                    <additions style="horizontal" n="3">Decr</additions>
+                    <additions style="horizontal" n="24">Th 6.44</additions>
+                    <additions style="horizontal" n="25"><time when="12:00:00">noon</time> 52</additions>
+                    <additions style="horizontal" n="26"><time when="16:00:00">4 p.m.</time> 54</additions>
+                    <p>
+                        <lb n="1"/>
+                        her &amp; found nothing serious, he
+                        <lb n="2"/>
+                        ordered Openuis pills to be
+                        <lb n="3"/>
+                        taken now, &amp; work her bowels
+                        <lb n="4"/>
+                        &amp; see how she feels afterward,
+                        <lb n="5"/>
+                        He wont accept from me the
+                        <lb n="6"/>
+                        fees of 1 Mej which I tried
+                        <lb n="7"/>
+                        much to give him~ I
+                        <lb n="8"/>
+                        gave my wife 2 tablets of the
+                        <lb n="9"/>
+                        Rectanrateur de la Sante"
+                        <lb n="10"/>
+                        I called on Sister Emilia
+                        <lb n="11"/>
+                        at <time when="10:00:00">10 a.m.</time>~
+                   </p>
+                   <p>
+                        <lb n="12"/>
+                       At <time when="15:00:00">3 p.m.</time> I went to see Rufail
+                        <lb n="13"/>
+                        &amp; the Marines &amp; took milk and
+                        <lb n="14"/>
+                       coffee there &amp; returned at <time when="16:30:00">4 1/2</time>
+                        <lb n="15"/>
+                        Cecile is well, but she is getting
+                        <lb n="16"/>
+                        so noisy &amp; want to eat every
+                        <lb n="17"/>
+                        thing, she still coughs and
+                        <lb n="18"/>
+                        has a little fever, but she
+                        <lb n="19"/>
+                        is convalesced;~
+                  </p>
+                  <p>
+                        <lb n="20"/>
+                        Weather fine &amp; cold;~
+                  </p>
+                  <p>
+                        <lb n="21"/>
+                        <date when="1907-12-22">22 Sund</date>
+                        <lb n="22"/>
+                        Light N.W. &amp; fine cold
+                        <lb n="23"/>
+                        weather~
+                  </p>
+                  <p>
+                        <lb n="24"/>
+                        The SS Blosse Lynch left
+                        <lb n="25"/>
+                      at <time when="05:30:00">5 1/2 a.m.</time>~
+                  </p>
+                  <p>
+                        <lb n="26"/>
+                        Cecile is well, she is very
+                        <lb n="27"/>
+                        weak only~
+                  </p>
+                  <p>
+                        <lb n="28"/>
+                      At <time when="09:00:00">9</time> I went to the Latin Church,
+                        <lb n="29"/>
+                        I then called on the Marines
+                        <lb n="30"/>
+                        &amp; Ruphail- also
+                    </p>
+                </div>
+            <pb n="11"/> <!-- Page 11-->
+                <div type="entry" n="1"> 
+                    <p>
+                        <lb n="1"/>
+                        with Rezooki Andria went to
+                        <lb n="2"/>
+                        visit Righa  my niece
+                        <lb n="3"/>
+                        she is living with Guiseppina,
+                        <lb n="4"/>
+                        her sister, she is in bed with
+                        <lb n="5"/>
+                        hard cold &amp; influenza
+                        <lb n="6"/>
+                        Called also to see my sister
+                        <lb n="7"/>
+                        Eliza, but she is still very
+                        <lb n="8"/>
+                        weak &amp; drowsy, she cannot
+                        <lb n="9"/>
+                        eat any thing has no appetite
+                        <lb n="10"/>
+                        &amp; does not sleep at night,
+                        <lb n="11"/>
+                        Dr. Madonaghy gave her
+                        <lb n="12"/>
+                        some medicine, but she
+                        <lb n="13"/>
+                        does not find any change,
+                        <lb n="14"/>
+                        I am afraid she is sinking
+                        <lb n="15"/>
+                        down, she is so old too,
+                        <lb n="16"/>
+                        just 77 years~ I came
+                        <lb n="17"/>
+                        home at <time when="11:30:00">11 1/2</time>; Dr. Nizam
+                        <lb n="18"/>
+                        el Din has been to see
+                        <lb n="19"/>
+                        Cecile, he ordered some food
+                        <lb n="20"/>
+                        to take as arrowroot, biscuit,
+                        <lb n="21"/>
+                        &amp; also some medicine~
+                        <lb n="22"/>
+                        I called on Mrs. Cowley but
+                        <lb n="23"/>
+                        was told that she was not
+                        <lb n="24"/>
+                        at home~ Louise, Harriette,
+                        <lb n="25"/>
+                        Johnny, Duncan Alexander,
+                        <lb n="26"/>
+                        &amp; Rezooki Andria called on me,
+                        <lb n="27"/>
+                        also Antoin Juliette~
+                    </p>
+                    <p>
+                        <lb n="28"/>
+                        Light N.W. &amp; very fine cold
+                        <lb n="29"/>
+                        weather~                      
+                    </p>
+                </div>
+            
+            <pb n="12"/> <!-- Page 12-->
+                <div type="entry" n="1">
+                    <additions style="horizontal" n="2"><date when ="1907">1907</date></additions>
+                    <additions style="horizontal" n="3">Decr</additions>
+                    <additions style="horizontal" n="7">Th 6.46</additions>
+                    <additions style="horizontal" n="8"><time when="12:00:00">noon</time> 52</additions>
+                    <additions style="horizontal" n="9"><time when="04:00:00">4 a.m.</time> 54</additions>
+                    <p>
+                        <lb n="1"/>
+                        <date when="1907-12-23">23 Mond</date>
+                        <lb n="2"/>
+                        Light N.W. breeze &amp; very fine
+                        <lb n="3"/>
+                        Cold weather~
+                    </p>
+                    <p>
+                        <lb n="4"/>
+                        Cecile is well, she is very weak
+                        <lb n="5"/>
+                        &amp; wants to eat every thing, we
+                        <lb n="6"/>
+                        are giving her arrowroot, milk,
+                        <lb n="7"/>
+                        tea, biscuit etc~
+                    </p>
+                    <p>
+                        <lb n="8"/>
+                        I called on Menusha at <time when="10:00:00">10 a.m.</time>
+                        <lb n="9"/>
+                        and then went to see sister Eliza
+                        <lb n="10"/>
+                        she is very weak &amp; takes nothing
+                        <lb n="11"/>
+                        &amp; has not slept last night,
+                        <lb n="12"/>
+                        she feels her stomach not
+                        <lb n="13"/>
+                        right &amp; the gastric juice is
+                        <lb n="14"/>
+                        coming out, they sent to
+                        <lb n="15"/>
+                        fetch Dr Mac Conaghy, he
+                        <lb n="16"/>
+                        is coming in the evening;
+                        <lb n="17"/>
+                        I feel well since 7 days
+                        <lb n="18"/>
+                        no wind or indigestion,
+                        <lb n="19"/>
+                        am eating every thing
+                        <lb n="20"/>
+                        &amp; do not feel any drowsiness.
+                        <lb n="21"/>
+                        I took the <gap reason="illegible"/>
+                        <lb n="22"/>
+                        with the nun Vanica &amp;
+                        <lb n="23"/>
+                        Bella Demia every morning,
+                        <lb n="24"/>
+                        Rufail Sayegh called on us
+                        <lb n="25"/>
+                        at <time when="15:00:00">3 p.m.</time>~
+                    </p>
+                    <p>
+                        <lb n="26"/>
+                        Weather became very cold
+                        <lb n="27"/>
+                        at sunset. I am so shivering
+                        <lb n="28"/>
+                        &amp; cannot stand it~
+                    </p>
+                    <p>
+                        <lb n="29"/>
+                        I felt my stomach unwell
+                        <lb n="30"/>
+                        toward evening, &amp; after having
+                        <lb n="31"/>
+                        taken my dinner I felt                        
+                    </p>
+                </div>
+		<pb n="13"/>
+		<div type="entry" n="1"> 
+	   	<additions style="horizontal" n="7">Th 6.46</additions>
+	   	<additions style="horizontal" n="8"><time when="12:00:00">noon</time> 52</additions>
+	   	<additions style="horizontal" n="9"><time when="16:00:00">4 p.m.</time> 54</additions>
+	   	<additions style="vertical" n="11">Indigestion &amp; vomiting</additions>
+            <p>	
+	                <lb n="1"/>
+	                the wind puffing up and
+	                <lb n="2"/>
+	                indigestion began with
+	                <lb n="3"/>
+	                heartburn, &amp; could not sleep
+	   	</p>
+	   	<p>
+	                <lb n="4"/>
+			<date when="1907-12-24">24 Sund</date>
+			<lb n="5"/>
+		        At about <time when="14:30:00">2 1/2</time> the <gap reason="illegible"/>
+	   	</p>
+	   	<p>
+	                <lb n="6"/>
+	                came up, nausea and
+	                <lb n="7"/>
+	                I vomited my dinner &amp;
+	                <lb n="8"/>
+	                then felt better, perhaps
+	                <lb n="9"/>
+	                the cold affected my stomach,
+	                <lb n="10"/>
+	                or the food. 
+	                <lb n="11"/>
+		        	The SS Launch Ishtar
+		        	<lb n="12"/>
+	                with the Indian mail arrived
+	                <lb n="13"/>
+	                last night~
+	                <lb n="14"/>
+		       	 	I had arranged with Rufail
+		        	<lb n="15"/>
+	                to go out to my house this
+	                <lb n="16"/>
+	                morning &amp; breakfast there
+	                <lb n="7"/>
+	                &amp; return in the evening in
+	                <lb n="18"/>
+	                the carriage but he <gap reason="illegible"/>
+	                <lb n="9"/>
+	                to tell me that he cannot
+	                <lb n="20"/>
+	                go; so I am going down
+	                <lb n="21"/>
+	                at noon in a Goffa, as I
+	                <lb n="22"/>
+	                require some clothes etc,
+	                <lb n="23"/>
+	            	At <time when="09:00:00">9</time> I went to see sister
+		        	<lb n="24"/>
+	                Eliza, she is getting worse
+	                <lb n="25"/>
+	                &amp; weaker, not wanting to
+	                <lb n="26"/>
+	                take any nourishment at
+	                <lb n="28"/>
+	                all, she had no sleep &amp;
+	                <lb n="29"/>
+	                touched nothing since
+	                <lb n="30"/>
+	                yesterday; Dr. Mac Canaghy
+	                <lb n="31"/>
+	                came yesterday to see
+            </p>
+	   </div>
+   <pb n="14"/>
+    	<div type="entry" n="1">
+    		<additions style="horizontal" n="2"><date when="1907">1907</date></additions>
+    		<additions style="horizontal" n="3"><date when="1907-12">Decr</date></additions>
+				<p>
+					<lb n="1"/>
+					her, he said that there is nothing
+					<lb n="2"/>
+					out of order in her functions,
+					<lb n="3"/>
+					except weakness &amp; if she takes
+					<lb n="4"/>
+					any food she will get better
+					<lb n="5"/>
+					but she detests &amp; refuses to
+					<lb n="6"/>
+					take the least quantity of milk
+					<lb n="7"/>
+					or chicken broth; she asked
+					<lb n="8"/>
+					to have the extreme <gap reason="illegible"/> last night,
+					<lb n="9"/>
+					&amp; so the Bishop Monseigneur
+					<lb n="10"/>
+					J. Drure &amp; four Fathers came
+					<lb n="11"/>
+					over, they were dining at
+					<lb n="12"/>
+					Yousif Asfar; my sisters Emilia
+					<lb n="13"/>
+					&amp; Medoola, also her daughters 
+					<lb n="14"/>
+					Guisippina, Regina &amp; Terooza
+					<lb n="15"/>
+					are attending her, also
+					<lb n="16"/>
+					one of the french nuns;
+					<lb n="17"/>
+					The Burhanich arrived this
+					<lb n="18"/>
+					morning at about <time when="06:00:00"> 6 a.m.</time>~
+					<lb n="19"/>
+					At <time when="13:30:00">1 1/2 p.m.</time> I went down in a
+					<lb n="20"/>
+					Goffa with my cook Skander
+					<lb n="21"/>
+					to my house, I found it all
+					<lb n="22"/>
+					in order &amp; Jassim my watchman
+					<lb n="23"/>
+					there;~ I called on Eliza &amp; Adoola
+					<lb n="24"/>
+					for an hour, I took some
+					<lb n="25"/>
+					clothes &amp; started to tour at 
+					<lb n="26"/>
+					4 &amp; got home at <time when="16:45:00">4 3/4</time>
+					<lb n="27"/>
+					I went to ask about sister Eliza,
+					<lb n="28"/>
+					she is the same not eating any
+					<lb n="29"/>
+					thing, Dr. MacConaghy has been
+					<lb n="30"/>
+					to see her this evening and
+					<lb n="31"/>
+					ordered medicines etc~
+				</p>
+    	</div>
+	<pb n="15"/>
+		<div type="entry" n="1">
+			<additions style="horizontal" n="6">Th 6.43</additions>	
+			<additions style="horizontal" n="8"><time when="12:00:00">noon</time> 53</additions>
+			<additions style="horizontal" n="9"><time when="16:00:00">4 p.m.</time> 56</additions>
+			<p>
+					<lb n="1"/>
+					I feel the cold awfully &amp; am
+					<lb n="2"/>
+					shivering~
+			</p>
+			<p>
+				<lb n="3"/>
+				<date when="1907-12-25">25 Wedn</date>
+				<lb n="4"/>
+				Christmas~ Light N.W.
+			</p>
+			<p>
+					<lb n="5"/>
+					air &amp; very cold, I am so shivering
+					<lb n="6"/>
+					The SS. Mejidieh arrived at
+					<lb n="7"/>
+					about <time when="02:00:00">2 a.m.</time>
+					<lb n="8"/>
+					I could not go to church on
+					<lb n="9"/>
+					account of the cold which
+					<lb n="10"/>
+					is so severe on me; Only
+					<lb n="11"/>
+					Marie went at <time when="09:00:00">9 a.m.</time>;
+					<lb n="12"/>
+					My wife still unwell, she
+					<lb n="13"/>
+					sent for the donkey of Eliza
+					<lb n="14"/>
+					Abood and at <time when="21:00:00">9</time> went to the
+					<lb n="15"/>
+					house of her brother Antone
+					<lb n="16"/>
+					to spend a few days with
+					<lb n="17"/>
+					Rufail &amp; Terrooza;~
+					<lb n="18"/>
+					Went to see sister Eliza with
+					<lb n="19"/>
+					Marie, she is the same &amp; very weak
+					<lb n="20"/>
+					&amp; does not want to take any food,
+					<lb n="21"/>
+					I gave her some milk &amp; the <gap reason="illegible"/>
+					<lb n="22"/>
+					<gap reason="illegible"/> by force~
+					<lb n="23"/>
+					The SS Launch Ishtar left
+					<lb n="24"/>
+					this morning with the Jardian make,
+					<lb n="25"/>
+					Rafooly Tanton; Hannosh Andria
+					<lb n="26"/>
+					&amp; Shawl Malem Hirzkeil called
+					<lb n="27"/>
+					on us.
+					<lb n="28"/>
+					The SS Mossul had arrived
+					<lb n="29"/>
+					on Monday morning but she
+					<lb n="60"/>
+					is out of order &amp; gone to the other
+					<lb n="31"/>
+					side for repairs~
+					<lb n="32"/>
+					Alexander Marie &amp; myself
+					<lb n="33"/>
+					called on Menusha at <time when="14:00:00">2 pm.</time>
+				</p>
+		</div>
+	<pb n="16"/>
+	<div type="entry" n="1">
+		<additions style="horizontal" n="2"><date when="1907">1907</date></additions>
+		<additions style="horizontal" n="3"><date when="1907-12">Decr</date></additions>
+		<additions style="horizontal" n="15">Th 6.48></additions> 
+		<additions style="horizontal" n="16"><time when="12:00:00">noon</time> 54</additions>
+		<additions style="horizontal" n="17"><time when="16:00:00">4 p.m</time>. 68</additions>
+	<p>
+					<lb n="1"/>
+					Seyd Dowd Effendi, son of Seyd
+					<lb n="2"/>
+					Selman late Nakib called
+					<lb n="3"/>
+					on us, also Kerop Setian
+					<lb n="4"/>
+					&amp; Duncan Alexander and
+					<lb n="5"/>
+					Rafooly Tanton~
+					<lb n="6"/>
+					Very cold I cannot stand
+					<lb n="7"/>
+					it although it is not so severe
+					<lb n="8"/>
+					but I find it unbearable
+					<lb n="9"/>
+					for me; I got a fire in a Mankala
+					<lb n="10"/>
+					in my room at night~
+	</p>
+		<p>
+					<lb n="11"/>
+					<date when="1907-12-26">26 Thursd</date>
+					<lb n="12"/>
+					Very light N.W.
+					<lb n="13"/>
+					breeze and
+					<lb n="14"/>
+					fine cold weather;
+		</p>
+		<p>
+					<lb n="15"/>
+					I sent to inquire how my sister Eliza
+					<lb n="16"/>
+					is &amp; they said she was the same as
+					<lb n="17"/>
+					before with much weakness;
+					<lb n="18"/>
+					At 9 Alexander &amp; I went on board 
+					<lb n="19"/>
+					the Mejidieh to visit Capt King
+					<lb n="20"/>
+					also Metty &amp; Jemil, we then
+					<lb n="21"/>
+					went to see my wife at Marines
+					<lb n="22"/>
+					house also Rufail &amp; Terooza,
+					<lb n="23"/>
+					we also called on sister Emilia
+					<lb n="24"/>
+					&amp; came home at <time when="12:00:00">noon</time>
+					<lb n="25"/>
+					I called to see sister Eliza,
+					<lb n="26"/>
+					she is the same but I see that
+					<lb n="27"/>
+					she is calmer &amp; looks better,
+					<lb n="28"/>
+					she took milk with vishy
+					<lb n="29"/>
+					water, a little champagne
+					<lb n="30"/>
+					&amp; the medicine, I came 
+					<lb n="31"/>
+					home at <time when="15:00:00">3 p.m.</time>
+					<lb n="32"/>
+					Monsing. J. Dhuke &amp; Pere
+					<lb n="33"/>
+					August called on us~
+					<lb n="34"/>
+					I sent today by Turkish
+				</p>
+	</div>
+	<pb n="17"/>
+		<div type="entry" n="1">
+			<additions style="horizonatl" n="18">Th 6.41</additions>
+			<additions style="horizontal" n="19"><time when="12:00:00">noon</time> 52</additions>
+			<additions style="horizontal" n="20"><time when="16:00:00">4 p.m.</time> 54</additions>
+			<p>
+					<lb n="1"/>
+					post greeting postcards to
+					<lb n="2"/>
+					Bloakey in Cheshunt also
+					<lb n="3"/>
+					to Mr. Bahm in No. 49
+					<lb n="4"/>
+					Charlotten Strasse Berlin
+					<lb n="5"/>
+					&amp; to my niece Effi Boucherot
+					<lb n="6"/>
+					at Zeitoun in Cairo;
+					<lb n="7"/>
+					The SS Phrat arrived Saturday
+					<lb n="8"/>
+					morning at <time when="04:00:00">4 a.m.</time>~
+					<lb n="9"/>
+					I wrote a letter to Rezooki
+					<lb n="10"/>
+					Sayegh for tomorrow by the
+					<lb n="11"/>
+					SS Mejidieh regarding the
+					<lb n="12"/>
+					2 cases of Alexander's Revoloen
+					<lb n="13"/>
+					from Muscat~
+					<lb n="14"/>
+					Very fine &amp; cold weather,
+			</p>
+			<p>
+				<lb n="15"/>
+				<date when="1907-12-27">27 Friday</date>
+				<lb n="16"/>	
+				Light N.W. 
+				<lb n="17"/>
+				&amp; fine cold
+				<lb n="18/"/>
+				weather~		
+			</p>
+			<p>
+					<lb n="19"/>
+					The SS. Mejidieh left at <time when="17:30:00">5 1/2</time>
+					<lb n="20"/>
+					a.m.~
+					<lb n="21"/>
+					I called on Menusha at <time when="22:00:00">10</time>
+					<lb n="22"/>
+					and then took Alexander and
+					<lb n="23"/>
+					called on Mrs. Viollet &amp; his new
+					<lb n="24"/>
+					wife whom he married in
+					<lb n="25"/>
+					Paris latel but we did not
+					<lb n="26"/>
+					see her; he arrived by Aleppo
+					<lb n="27"/>
+					about ten days ago &amp; living
+					<lb n="28"/>
+					in the Hotel of Abdulahad
+					<lb n="29"/>
+					(the old English Residency)
+					<lb n="30"/>
+					At <time when="14:00:00">2 p.m.</time> I went to see sister
+					<lb n="31"/>
+					Eliza, she is the same as before
+			</p>
+		</div>
+	<pb n="18"/>
+	<div type="entry" n="1">
+		<additions style="horizontal" n="1"><date when="1907">1907</date></additions>
+		<additions style="horizontal" n="3"><date when="1907-12">Decr</date></additions>
+		<additions style="horizontal" n="24">Th 6.46</additions>
+		<additions style="horizontal" n="25"><time when="12:00:00">noon</time> 51</additions>
+		<additions style="horizontal" n="26"><time when="16:00:00">4 p.m.</time></additions>
+			<p>
+					<lb n="1"/>
+					very weak and wont take any
+					<lb n="2"/>
+					nourishment; I gave her some
+					<lb n="3"/>
+					Leben two spoonfuls by force
+					<lb n="4"/>
+					my sisters also were there;
+					<lb n="5"/>
+					I went then to see my wife
+					<lb n="6"/>
+					in her little house, she went
+					<lb n="7"/>
+					there this morning from her
+					<lb n="8"/>
+					brothers house, Rufail
+					<lb n="9"/>
+					was there &amp; his sister Medoola,
+					<lb n="10"/>
+					she is still complaining from
+					<lb n="11"/>
+					pain on the chest &amp; coughing
+					<lb n="12"/>
+					I left my cook Kander then
+					<lb n="13"/>
+					to cook for her, until the
+					<lb n="14"/>
+					servant girl is coming tomorrow,
+					<lb n="15"/>
+					I came home at <time when="20:30:00">8 1/2</time>found
+					<lb n="16"/>
+					Mrs. Cowley here also Eliza
+					<lb n="17"/>
+					(abood) wife of Hanosh Andria
+					<lb n="18"/>
+					came to see Cecile;~
+					<lb n="19"/>
+					Weather getting cloudy
+					<lb n="20"/>
+					all over;~
+					
+				</p>
+		<p>
+			<lb n="21"/>
+			<date when="1907-12-28">28 Saturd</date>
+			<lb n="22"/>		
+			Light N.W.
+			<lb n="23"/>
+			&amp; cloudy a little
+			<lb n="24"/>
+			but got fine &amp; clear not so cold
+			<lb n="25"/>
+			as yesterday~		
+		</p>
+		<p>
+					<lb n="26"/>
+					At <time when="09:00:00">9</time> Alexander &amp; I called to see
+					<lb n="27"/>
+					Sister Eliza, she is better this morning
+					<lb n="28"/>
+					being very weak, but has little
+					<lb n="29"/>
+					appetite &amp; slept better, her tongue
+					<lb n="30"/>
+					looks cleaner~ We then
+					<lb n="31"/>
+					went to see mama she is also
+					<lb n="32"/>
+					better today, I left her and
+					<lb n="33"/>
+					Alexander in his office there
+					<lb n="34"/>
+					I came home, prepared to
+					<lb n="35"/>
+					go out to my house after
+			</p>
+	</div>
+	<pb n="19"/>
+	<div type="entry" n="1">
+		<additions style="horizontal" n="26">Th 6.36</additions>
+	   		<p>
+	   			 <lb n="1"/>
+					breakfast in a carriage, &amp;
+					<lb n="2"/>
+					bought some provision etc,
+					<lb n="3"/>
+					I took breakfast Potato stew
+					<lb n="4"/>
+					curry &amp; rice &amp; some cream  &amp;
+					<lb n="5"/>
+					jam,~
+					<lb n="6"/>
+					At <time when="00:30:00">0 1/2 p.m.</time> I left in the
+	   			 <lb n="7"/>
+					carriage, took Muttar
+					<lb n="8"/>
+					our old watchman who had
+					<lb n="9"/>
+					brought one partridge for
+					<lb n="10"/>
+					Alexander this morning &amp;
+					<lb n="11"/>
+					landed him, on the Gherra
+					<lb n="12"/>
+					road &amp; I came to my house 
+					<lb n="13"/>
+	   			 at <time when="01:15:00">1 1/4></time> he took the desert
+	   			 <lb n="14"/>
+					road; I found the house
+					<lb n="15"/>
+					&amp; my watchman Jassim
+					<lb n="16"/>
+					all in order;~
+					<lb n="17"/>
+					The SS. Ressafah had passed
+					<lb n="18"/>
+	   			 up at <time when="10:00:00">10 a.m.</time>;
+	   			 <lb n="19"/>
+					Light N.W &amp; fine weather
+					<lb n="20"/>
+					I do not feel it so cold;
+					<lb n="21"/>
+					I lit the stove at night &amp; my
+					<lb n="22"/>
+					room was nice &amp; warm.
+	   		</p>
+		<p>
+				<lb n="23"/>
+	   		 <date when="1907-12-29">29 Sund</date>
+	   		 <lb n="24"/>		
+	   		 Light N.W. 
+				<lb n="25"/>
+				&amp; fine very cold
+				<lb n="26"/>
+				weather~	 
+		</p>
+		<p>
+					<lb n="27"/>
+					The SS. Berhanieh passed
+					<lb n="28"/>
+	   			 down at <time when="04:45:00">4 3/4 a.m.</time>~
+	   			 <lb n="29"/>
+					It got very cold with wind
+					<lb n="30"/>
+	   			 &amp; at <time when="08:00:00">8 a.m.</time> it began to get
+	   			 <lb n="31"/>
+					cloudy;
+					<lb n="32"/>
+					I called on Eliza &amp; Adoola
+	   	</p>
+	   	</div>
+	<pb n="20"/>
+	<div type="entry" n="1">
+		<additions style="horizontal" n="2"><date when="1907">1907</date></additions>
+	    <additions style="horizontal" n="3"><date when="1907-12">Decr</date></additions>
+		<additions style="horizontal" n="29">Th 6.39</additions>
+	   	<p>
+					<lb n="1"/>
+	   			 at <time when="10:00:00">10 a.m.</time> her house is getting
+	   			 <lb n="2"/>
+					on well, the two other rooms are
+					<lb n="3"/>
+					also <gap reason="illegible"/> &amp; finished;
+	   			 <lb n="4"/>
+					I heard that Saoody bin
+					<lb n="5"/>
+					Farhat my friend &amp; owner of
+					<lb n="6"/>
+					the Garden of Farhat is dead
+					<lb n="7"/>
+					he died in town on the 25
+					<lb n="8"/>
+					instant, he was suffering
+					<lb n="9"/>
+					for some years from chest
+					<lb n="10"/>
+					disease &amp; asthma, his two
+					<lb n="11"/>
+					brothers Abdulla &amp; Selman
+					<lb n="12"/>
+					now survive~
+					<lb n="13"/>
+					I sent Jassim to town with
+					<lb n="14"/>
+					a letter to Alexander &amp; sent
+					<lb n="15"/>
+					him my old orguinette to
+					<lb n="16"/>
+					be repaired;
+					<lb n="17"/>
+					Weather getting cloudy
+					<lb n="18"/>
+					everywhere;
+					<lb n="19"/>
+	   			 	Jassim came back at <time when="15:00:00">3 p.m.</time> with
+	   			 	<lb n="20"/>
+					a letter from Alexander he says
+					<lb n="21"/>
+					that my sister Eliza is better 
+					<lb n="22"/>
+					today than yesterday, and
+					<lb n="23"/>
+				    his mother has got Abdulkerim
+				    <lb n="24"/>
+					the cook today to cook for 
+					<lb n="25"/>
+					her.~
+	   	</p>
+		<p>
+			   <lb n="26"/>
+	   		<date when="1907-12-30">30 Mond</date>
+	   		<lb n="27"/>		
+	   	    Light Ely breeze and
+			   <lb n="28"/>	
+			   cloudy all over, but at <time when="07:00:00">7 am</time>
+			   <lb n="29"/>
+			   it cleared off &amp; became very
+			   <lb n="30"/>
+			   fine &amp; very cold too~
+			   <lb n="31"/>	 	
+		</p>
+		<p>
+					The SS Phrat passed down
+					<lb n="32"/>
+	   			 at <time when="05:00:00">5 a.m.</time>~
+	   	</p>
+	   	</div>
+	<pb n="21"/>
+	<div type="entry" n="1">
+		<additions style="horizontal" n="24">Th 6.46</additions>
+		<additions style="horizontal" n="25"><time when="12:00:00">noon</time> 60</additions>
+		<additions style="horizontal" n="26"><time when="16:00:00">4 p.m.</time> 65></additions>
+	<p>
+					<lb n="1"/>
+					At <time when="09:00:00">9</time> I called on Eliza &amp; Adoola
+					<lb n="2"/>
+					Modte Ely wind, with
+					<lb n="3"/>
+					some clouds coming on;
+					<lb n="4"/>
+					At <time when="11:00:00">11</time> I sent Jassim to town
+					<lb n="5"/>
+					with a letter for Alexander
+					<lb n="6"/>
+					to enquire how sister Eliza
+					<lb n="7"/>
+					is getting on; He returned at
+					<lb n="8"/>
+					<time when="14:30:00">2 1/2 p.m.</time> having been to sister
+					<lb n="9"/>
+					Eliza, they said that yesterday
+					<lb n="10"/>
+					she was not so well &amp; felt
+					<lb n="11"/>
+					very weak, but today she is
+					<lb n="12"/>
+					better, she slept last night
+					<lb n="13"/>
+					&amp; took some food today. 
+					<lb n="14"/>
+					Weather became again
+					<lb n="15"/>
+					very cloudy &amp; S. Ely breeze;
+					<lb n="16"/>
+					at sunset clouds <gap reason="illegible"/> and
+					<lb n="17"/>
+					kept hanging on with some stars
+					<lb n="18"/>
+					visible.
+	</p>
+		<p>
+					<lb n="19"/>
+					<date when="1907-12-31">31 Sund</date>
+					<lb n="20"/>
+					Light Ely breeze &amp; fine
+					<lb n="21"/>
+					weather.
+					<lb n="22"/>
+					The "SS Mossul" passed
+					<lb n="23"/>
+					down at <time when="06:30:00">6 1/2 a.m.</time>~
+					<lb n="24"/>
+					At <time when="09:00:00">9</time> I called on Eliza &amp; Adoola
+					<lb n="25"/>
+					The SS. Blosse Lynch passed
+					<lb n="26"/>
+					up at <time when="10:00:00">10 am</time>; 
+					<lb n="27"/>
+					I took breakfast only 3 boiled
+					<lb n="28"/>
+					eggs &amp; 2 potatoes &amp; some arrowroot
+					<lb n="29"/>
+					as I had a diarrhea at <time when="04:00:00">4 am</time>
+					<lb n="30"/>
+					At <time when="14:00:00">2 p.m.</time> I walked in to
+					<lb n="31"/>
+					town to sleep at Alexander
+					<lb n="32"/>
+					so as to visit some people
+	</p>
+		</div>
+	<pb n="22"/>
+	<div style="entry" n="1">
+		<additions style="horizontal" n="1"><date when="1908">1908</date></additions>
+		<additions style="horizontal" n="2"><date when="1908-01">Jany</date></additions>
+	   	<p>
+					<lb n="1"/>
+					tomorrow being New Year's 
+					<lb n="2"/>
+					day; took my cook Skander
+					<lb n="3"/>
+					also with me.~ I had a cabbige
+					<lb n="4"/>
+					which Jassim had brought for
+					<lb n="5"/>
+					me yesterday being given to
+					<lb n="6"/>
+					him by his nephew Addai,
+					<lb n="7"/>
+					and I gave it to my cook to take
+					<lb n="8"/>
+					it for Alexander. On his way
+					<lb n="9"/>
+					he was stopped by  cultivator
+					<lb n="10"/>
+					called Mohamed ibu Hessony
+					<lb n="11"/>
+					Abode Kerop's house, &amp; told him
+					<lb n="12"/>
+					that this was stolen from
+					<lb n="13"/>
+					his cultivation he brought him
+					<lb n="14"/>
+					back to me at my door &amp;
+					<lb n="15"/>
+					made an awful raw, he
+					<lb n="16"/>
+					wanted to know who brought
+					<lb n="17"/>
+					it to me, Jassim said that
+					<lb n="18"/>
+					he had bought it from a Jew,
+					<lb n="19"/>
+					he wont believe it &amp; insisted
+					<lb n="20"/>
+					on his demand; &amp; would
+					<lb n="21"/>
+					not listen to me, that I should
+					<lb n="22"/>
+					make enquiries &amp; find out
+					<lb n="23"/>
+					if it is stolen from him, 
+					<lb n="24"/>
+					but he accompanied me
+					<lb n="25"/>
+					all along the road on the
+					<lb n="26"/>
+					river side, &amp; sent his brother
+					<lb n="27"/>
+					forward &amp; brought a zaptyeh
+					<lb n="28"/>
+					from the station outside
+					<lb n="29"/>
+					the Babelshergi, to show
+					<lb n="30"/>
+					him the cabbige, that it has
+					<lb n="31"/>
+					been stolen by Jassim's
+	   	</p>
+		</div>
+	<pb n="23"/>
+	<div>
+		<p>
+					<lb n="1"/>
+					relatives Addai, Selman,
+					<lb n="2"/>
+					&amp; others; he made me awfully
+					<lb n="3"/>
+					enraged &amp; ennerved, I
+					<lb n="4"/>
+					threatened to complain in
+					<lb n="5"/>
+					Baghdad if he does not shut
+					<lb n="6"/>
+					up; So the Zaptyeh told
+					<lb n="7"/>
+					Mohamed that, as I  promised
+					<lb n="8"/>
+					to make enquiries, to let the
+					<lb n="9"/>
+					matter drop presently,
+					<lb n="10"/>
+					&amp; We went on~ I got to
+					<lb n="11"/>
+					Alexander's house by <time when="15:00:00">3 p.m.</time>
+					<lb n="12"/>
+					very tired &amp; enraged at what
+					<lb n="13"/>
+					had passed on account of
+					<lb n="14"/>
+					a  miserable cabbige; I heard
+					<lb n="15"/>
+					that sister Eliza is just the
+					<lb n="16"/>
+					same as before, we then
+					<lb n="17"/>
+					went to see her, she is weaker
+					<lb n="18"/>
+					&amp; would not take any nourishment.
+					<lb n="19"/>
+					She appears to be sinking &amp; no hope
+					<lb n="20"/>
+					of her recovery, as also the Doctors
+					<lb n="21"/>
+					had said so.~ We then went
+					<lb n="22"/>
+					to see my wife, she is also suffering,
+					<lb n="23"/>
+					Rufail was there; Dr. Nizam el Din
+					<lb n="24"/>
+					had been to see her &amp; prescribed
+					<lb n="25"/>
+					medicines, she has pain on the 
+					<lb n="26"/>
+					chest &amp; back, at <time when="18:00:00">6 p.m.</time> We came
+					<lb n="27"/>
+					home; I feel so unwell and
+					<lb n="28"/>
+					tyred with nausea in stomach
+					<lb n="29"/>
+					the walk &amp; excitement made
+					<lb n="30"/>
+					me feel worse; we took
+					<lb n="31"/>
+					dinner~
+		</p>
+	</div>
+	<pb n="24"/>
+	<div type="entry" n="1">
+		<additions style="horizontal" n="1"><date when="1908">1908</date></additions>
+		<additions style="horizontal" n="2"><date when="1908-01">Jany</date></additions>
+		<additions style="horizontal" n="6">Th. 6.48</additions>
+			<p>
+				<lb n="1"></lb>
+				<date when="1908-01-01">1 Wedn</date>
+				<lb n="2"/>		
+				Light S.W. breeze &amp; cloudy
+				<lb n="3"/>
+				dull weather.~
+			</p>
+		<p>
+					<lb n="4"/>
+					The SS Blosse Lynch left at
+					<lb n="5"/>
+					<time when="06:00:00">6 am.</time> taking the mail down
+					<lb n="6"/>
+					&amp; the Launch Ishtar remains
+					<lb n="8"/>
+					The SS Ressafah left at <time when="07:00:00">7</time>
+					<lb n="9"/>
+					am. 
+					<lb n="10"/>
+					Being New Year's day,
+					<lb n="11"/>
+					at <time when="09:00:00">9</time>Alexander &amp; I went to hear
+					<lb n="12"/>
+					mass, just at the time it began
+					<lb n="13"/>
+					to rain drizzly, which the
+					<lb n="14"/>
+					streets wet &amp; slippery, we then
+					<lb n="15"/>
+					called on the church fathers,
+					<lb n="16"/>
+					went to see my wife, &amp; then
+					<lb n="17"/>
+					called on Monsig. J. Drure,
+					<lb n="18"/>
+					Mr Ronet, Dr. Hessi the german
+					<lb n="19"/>
+					acting Consul; Mr. Richarz
+					<lb n="20"/>
+					(but did not see him &amp; left
+					<lb n="21"/>
+					our cards) on Mr. Joseph Asfar
+					<lb n="22"/>
+					Rain ceased at <time when="10:30:00">10 1/2 am.</time>,
+					<lb n="23"/>
+					it began to clear up at <time when="11:00:00">11</time>;
+					<lb n="24"/>
+					Mr. Mashkow the Russian
+					<lb n="25"/>
+					consul called on us, Mr. Roserfiln
+					<lb n="26"/>
+					Raffooly Tanton, with the
+					<lb n="27"/>
+					latter we went to visit Terrooza
+					<lb n="28"/>
+					Marine &amp; Rufail at <time when="14:00:00">2 p.m.</time>,
+					<lb n="29"/>
+					Mr Richard called on us;
+					<lb n="30"/>
+					At <time when="16:00:00">4 p.m.</time> Alexander, Marie
+					<lb n="31"/>
+					&amp; I called on Mr. Cowley and
+					<lb n="32"/>
+					<gap reason="illegible"/> daughter Mr. <gap reason="illegible"/>,
+					<lb n="33"/>
+					Marie then went to call
+				</p>
+	   	</div>
+	<pb n="25"/>
+	<div type="entry" n="1">
+		<additions style="horizontal" n="9">Th 6.50</additions>
+				<p>
+	   			<lb n="1"/>
+					on my sister Emilia; Mr.
+					<lb n="2"/>
+					Rourthad called &amp; left his
+					<lb n="3"/>
+					card~
+					<lb n="4"/>
+					The SS. Baghdad arrived at
+					<lb n="5"/>
+	   			 <time when="13:00:00">1 p.m.</time>~
+					</p>
+		<p>
+			<lb n="6"/>
+			<date when="1908-01-02">2 Thursd</date>
+			<lb n="7"/>
+			Light N.W. wind &amp; fine,			
+		</p>			
+	   		<p>		
+ 				   <lb n="8"/>
+	   			 	At <time when="09:00:00">9 a.m.</time> I went to see Sister
+	   				<lb n="9"/>
+					Eliza, she is still the same, she
+					<lb n="10"/>
+					never slept last night, she
+					<lb n="11"/>
+					feels pain on the chest and
+					<lb n="12"/>
+					throat she speaks with a
+					<lb n="13"/>
+					harsh voice, we make her
+					<lb n="14"/>
+					take some milk with coffee,
+					<lb n="15"/>
+					she tells me that she is so
+					<lb n="16"/>
+					suffering &amp; short of breath,
+					<lb n="17"/>
+					Dr. Zakhoor is attending
+					<lb n="18"/>
+					on her, he said that she has
+					<lb n="19"/>
+					a touch of congestion of the
+					<lb n="20"/>
+					lung; I recommended then
+					<lb n="21"/>
+					to get Dr. Nizam el Din also
+					<lb n="22"/>
+					I called on Sister Emilia,
+					<lb n="23"/>
+					&amp; then went to see my wife, 
+					<lb n="24"/>
+					she is still the same, with
+					<lb n="25"/>
+					pain on the chest &amp; back. also
+					<lb n="26"/>
+					the head &amp; legs; But she is
+					<lb n="27"/>
+					coughing as before, I came
+					<lb n="28"/>
+					home with Alexander
+					<lb n="29"/>
+	   			 	at <time when="12:00:00">noon</time> &amp; took breakfast,
+					<lb n="30"/>
+					Alexander left me to go to
+					<lb n="31"/>
+	   			 	the office and at <time when="15:30:00">3 1/2 p.m.</time>
+	   				<lb n="32"/>
+					I got a goffa &amp; came
+						</p>
+	   	</div>
+	<pb n="26"/>
+	<div type="entry" n="1">
+		<additions style="horizontal" n="1"><date when="1908">1908</date></additions>
+		<additions style="horizontal" n="3"><date when="1908-01">Jany</date></additions>
+		<additions style="horizontal" n="9">Th. 6.36</additions>
+		<additions style="horizontal" n="27">Th 6.38</additions>
+		<additions style="horizontal" n="28"><time when="12:00:00">noon</time> 56</additions>
+		<additions style="horizontal" n="29"><time when="16:00:00">4 p.m.</time> 60</additions>
+	   		<p>
+					<lb n="1"/>
+					down to my house~
+					<lb n="2"/>
+					Weather changed for the worse,
+					<lb n="3"/>
+					cloudy &amp; hazy~
+					<lb n="4"/>
+					River has fallen much to its
+					<lb n="5"/>
+					lowest state~
+	   		</p>
+			<p>
+				<lb n="6"/>
+				<date when="1908-01-03">3 Frid</date>
+				<lb n="7"/>
+				Light southerly breeze and
+				<lb n="8"/>
+				foggy, hazy cloudy &amp; cold weather,			
+			</p>
+	   		<p>
+					<lb n="9"/>
+					I sent Jassim to town &amp; wrote
+					<lb n="10"/>
+					to Alexander to know how
+					<lb n="11"/>
+					sister Eliza is but she is the same,
+					<lb n="12"/>
+					as Jassim came at <time when="11:30:00">11 1/2</time> saying
+					<lb n="13"/>
+					so &amp; Alexander too writes to see
+					<lb n="14"/>
+					Nizam el Din has been to see
+					<lb n="15"/>
+					her; My wife is a little better. 
+					<lb n="16"/>
+					I called on Eliza &amp; Adoola
+					<lb n="17"/>
+					at <time when="09:00:00">9 a.m.</time> masons are working
+					<lb n="18"/>
+					there.~
+					<lb n="19"/>
+					Weather very cloudy gloomy
+					<lb n="20"/>
+					&amp; so cold and damp; I lit the
+					<lb n="21"/>
+					stove at <time when="16:00:00">4 p.m.</time>~
+					<lb n="22"/>
+					At <time when="19:00:00">7 p.m.</time> clouds cleared off &amp;
+					<lb n="23"/>
+					became very fine, but wind
+					<lb n="24"/>
+					is still S. Ely.~
+		</p>
+			<p>
+				<lb n="25"/>
+				<date when="1908-01-04">4 Satur</date>
+				Light N.W. breeze and
+				<lb n="26"/>
+				very fine &amp; cold weather~
+				<lb n="27"/>			
+			</p>
+			<p>
+					<lb n="28"/>
+					At <time when="09:00:00">9 a.m.</time> I called on Eliza &amp; Adoola.
+					<lb n="29"/>
+					Breeze shifter to East at <time when="10:00:00">10</time>;
+					<lb n="30"/>
+					&amp; then to West at <time when="12:00:00">noon</time>~
+					I sent a letter to Alexander to
+					<lb n="31"/>
+					see how sister Eliza is getting,
+					<lb n="32"/>
+					he answered me that she is a
+					<lb n="33"/>
+					little better but Nizam el Din
+					<lb n="34"/>
+					said that she can live a
+					<lb n="35"/>
+					few weeks longer but not
+				</p> 
+	</div>
+	<pb n="27"/>
+            <div type="entry" n="1">
+            	<additions style="horizontal" n="12">Th 6.44</additions>
+            	<additions style="horizontal" n="22">Georgia Sagmon died yesterday</additions>
+               <p>
+                  <lb n="1"/>
+                     cured~
+               </p>
+               <p>
+                  <lb n="2"/>
+                  At <time when="14:00:00">2 p.m</time> I called on Rafooly
+                  <lb n="3"/>
+                  Tanton.~
+                  <lb n="4"/>
+                  Weeather again changed, a light
+                  <lb n="5"/>
+                  westerly &amp; clouds began to gather
+                  <lb n="6"/>
+                  all over, but it is not cold
+                  <lb n="7"/>
+                  at all.~ Today is the 29t day
+                  <lb n="8"/>
+                  of the month of Zalkada.~
+            </p>                  
+            <p>
+               <lb n="9"/>
+               <date when="1908-01-05">5 Sund</date>
+               <lb n="10"/>
+               Light S. Westerly, with some
+               <lb n="11"/>
+               clouds on Eastern &amp; Souther parts,
+               <lb n="12"/>
+               but getting fine~
+            </p>
+            <p>
+               <lb n="13"/>
+               The SS Baghdad towing
+               <lb n="14"/>
+               two Barges passed down at
+               <lb n="15"/>
+               <time when="06:30:00">6 1/2 am</time>;
+               <lb n="16"/>
+               I sent my cook Skander at <time when="07:00:00">7</time>
+               <lb n="17"/>
+               to town for provisions &amp; wrote
+               <lb n="18"/>
+               to Alexander;
+               <lb n="19"/>
+               I called on Eliza &amp; Adoola at <time when="09:00:00">9 a.m.</time>
+               <lb n="20"/>
+               My cook came back at <time when="10:00:00">10</time>.
+               <lb n="21"/>
+               Alexander writes that he is coming
+               <lb n="22"/>
+               out to see at <time when="14:00:00">2 p.m.</time>~ he says
+               <lb n="23"/>
+               that mama &amp; all are well, but
+               <lb n="24"/>
+               sister Eliza says that she is
+               <lb n="25"/>
+               worse~
+            </p>
+            <p>
+               <lb n="26"/>
+               Poor Georgia Sagmon
+               <lb n="27"/>
+               died yesterday before <time when="12:00:00">noon</time>
+               <lb n="28"/>
+               from heart disease, he was
+               <lb n="29"/>
+               ill for a long time from chest
+               <lb n="30"/>
+               disease &amp; short of breath,
+               <lb n="31"/>
+               he leaves a wife Eliza Toni
+               <lb n="32"/>
+               Jessy &amp; some children
+            </p>
+         </div>
+         <pb n="28"/>
+         <div type="entry" n="1">
+            <additions style="horizontal" n="1">1908</additions>
+			<additions style="horizontal" n="2">Jany</additions>
+            <p>
+               <lb n="1"/>
+               At <time when="14:00:00">2 p.m.</time> Alexander came out
+               <lb n="2"/>
+               to me in a carriage with Nessim
+               <lb n="3"/>
+               his broker. We then went to
+               <lb n="4"/>
+               visit Eliza &amp; Adoola, &amp; passed
+               <lb n="5"/>
+               by to take Rafooly Tanton,
+               <lb n="6"/>
+               but Mr &amp; Mrs Viollet had
+               <lb n="7"/>
+               come down to visit him~
+               <lb n="7"/>
+               We came to me &amp; took tea,
+            </p>
+            <p>
+               <lb n="8"/>
+              The SS Majidieh passed up
+               <lb n="9"/>
+               at <time when="16:00:00">4 p.m.</time> full of pilgrims,
+               <lb n="10"/>
+               <gap reason="illegible"></gap> &amp; arabs~
+               <lb n="11"/>
+               Rafooly called &amp; after waiting
+               <lb n="12"/>
+               for the carriage to come
+               <lb n="13"/>
+               out till <time when="16:45:00">4 3/4</time> it did not come
+               <lb n="14"/>
+               so Alexander &amp; Nessim
+               <lb n="15"/>
+               taking Rafooly with them
+               <lb n="16"/>
+               left walking.~
+            </p>
+            <p>
+               <lb n="17"/>
+               Light N.W. and fine mild
+               <lb n="18"/>
+               weather; I saw new moon
+               <lb n="19"/>
+               about two days old~
+            </p>
+            <p>
+               <lb n="20"/>
+               In the evening at <time when="17:30:00">5 1/2</time> three
+               <lb n="21"/>
+               carriages came, in the first one,
+               <lb n="22"/>
+               there came Selman brother
+               <lb n="23"/>
+               of Hussein Beg (but not of
+               <lb n="24"/>
+               his father) with two women
+               <lb n="25"/>
+               prostitues &amp; bottles of spirits
+               <lb n="26"/>
+               &amp; other things, then the two
+               <lb n="27"/>
+               other carriages came later
+            </p>
+         </div>
+         <pb n="29"/>
+         	<additions style="horizontal" n="23">Th 6.45</additions>
+         	<div type="entry" n="1">
+            <p>
+               <lb n="1"/>
+               on in one there were the boy
+               <lb n="2"/>
+               Leon son of Artin Apikyan
+               <lb n="3"/>
+               &amp; Yousif son of Fetoui Maghak
+               <lb n="4"/>
+               both about 18 or 20 years old
+               <lb n="5"/>
+               and one woman with them
+               <lb n="6"/>
+               &amp; the second carriage, a
+               <lb n="17"/>
+               band of Jewish musicians
+               <lb n="18"/>
+               &amp; all went into the little house
+               <lb n="19"/>
+               of Ali Beg (or rather of Artin
+               <lb n="20"/>
+               my nephew who has mortgaged
+               <lb n="21"/>
+               it lately) Jassim my watchman
+               <lb n="22"/>
+               go so indignant, because
+               <lb n="23"/>
+               his father Khalaaf &amp; his mother
+               <lb n="24"/>
+               are living there to guard the
+               <lb n="25"/>
+               house, that he shifted them
+               <lb n="26"/>
+               to the house of Yacoob Eassayi
+               <lb n="28"/>
+               where his father &amp; mother-in-
+               <lb n="29"/>
+               law are living.~
+            </p>
+            <p>
+               <date when="1908-01-06">6 Mond</date>
+            </p>
+            <p>
+               <lb n="30"/>
+               Light S. Ely and cloudy
+               <lb n="31"/>
+               all over overcast weather,
+               <lb n="32"/>
+               I got a mason &amp; boy to plaster
+               <lb n="33"/>
+               the watercloset below and
+               <lb n="34"/>
+               other places.~
+            </p>
+            <p>
+               <lb n="35"/>
+               I called at Eliza &amp; Adoola at <time when="09:00:00">9</time>.
+               <lb n="36"/>
+               Cloudy all over &amp; light southerly
+               <lb n="37"/>
+               breeze~ in the afternoon
+               <lb n="38"/>
+               clouds getting detached
+            </p>
+         </div>
+         <pb n="30"/>
+         	<additions style="horizontal" n="1">1908</additions>
+         	<additions style="horizontal" n="3">Jany</additions>
+         	<additions style="horizontal" n="10">Th 6.38</additions>
+         	<additions style="horizontal" n="29">Th 6.34</additions>
+         	<additions style="horizontal" n="30"><time when="12:00:00">noon</time> 48</additions>
+         	<additions style="horizontal" n="31"><time when="16:00:00">4pm</time> 54</additions>
+         <div type="entry" n="1">
+            <p>
+               <lb n="1"/>
+               with some sunshine, but in
+               <lb n="2"/>
+               the evening it agin got cloudy
+               <lb n="3"/>
+               black loaded in some parts,
+               <lb n="4"/>
+               At <time when="19:00:00">7</time> it blew a fresh westly wind
+               <lb n="5"/>
+               &amp; all clouds cleaar off &amp;
+               <lb n="6"/>
+               became fine.~
+            </p>
+            <p>
+               <date when="1908-01-07">7 Tuesd</date>
+            </p>
+            <p>
+               <lb n="7"/>
+               Fresh N.W. wind &amp; very fine
+               <lb n="8"/>
+               &amp; sharp cold weather;
+               <lb n="9"/>
+               I wrote to Alexander with
+               <lb n="10"/>
+               Khalaf the father of Jassim to
+               <lb n="11"/>
+               ask how sister Eliza is;
+               <lb n="12"/>
+               At <time when="09:30:00">9 1/2</time> I called on Elizaa &amp; Adoola.
+               <lb n="13"/>
+               Very fresh &amp; cold N.W. wind
+               <lb n="14"/>
+               blowng.
+            </p>
+            <p>
+               <lb n="15"/>
+               I received a letter from Alexander
+               <lb n="16"/>
+               with Rafooly at <time when="13:00:00">1 p.m.</time> he says
+               <lb n="17"/>
+               that sister Eliza is a little
+               <lb n="18"/>
+               better, she takes some nourishment
+               <lb n="19"/>
+               &amp; champagne, but this is only
+               <lb n="20"/>
+               temporary; &amp; Regina her
+               <lb n="21"/>
+               daughter is better with the
+               <lb n="22"/>
+               pneumonia~
+            </p>
+            <p>
+               <lb n="23"/>
+               Raffooly Tunton called on me
+               <lb n="24"/>
+               at <time when="16:00:00">4 p.m.</time>;~
+            </p>
+            <p>
+               <lb n="25"/>
+               Light westerly wind and a
+               <lb n="26"/>
+               little cloudy &amp; hazy .~
+            </p>
+            <p>
+               <date when="1908-01-08">8 Wedn</date>
+            </p>
+            <p>
+               <lb n="27"/>
+               At <time when="02:15:00">2 1/4 am</time>. the SS Burhanich
+               <lb n="28"/>
+               passed up~
+            </p>
+            <p>
+               <lb n="29"/>
+               Light westly breeeze and
+               <lb n="30"/>
+               very finee &amp; cold weather.
+            </p>
+            <p>
+               <lb n="31"/>
+               The steamer Launch Ishtar
+            </p>
+         </div>
+         <pb n="31"/>
+         <div type="entry" n="1">
+            <p>
+               <lb n="1"/>
+               passed down at <time when="06:00:00">6 a.m.</time> to Basrah
+               <lb n="2"/>
+               taking the quasies down;
+            </p>
+            <p>
+               <lb n="3"/>
+               I sent Jassim to town for
+               <lb n="4"/>
+               provisions &amp; wrote to Alexander
+               <lb n="5"/>
+               at <time when="08:00:00">8 am.</time>~
+            </p>
+            <p>
+               <lb n="6"/>
+               At <time when="09:00:00">9</time> I called on Eliza &amp; Adoola
+               <lb n="7"/>
+               there came Rafooly Tanton &amp;
+               <lb n="8"/>
+               then went with him to his
+               <lb n="9"/>
+               garaden &amp; brought from him
+               <lb n="10"/>
+               4000 karabs (the stumps of
+               <lb n="11"/>
+               date branches) at 80 piast
+               <lb n="12"/>
+               per 1000 &amp; I came back at <time when="11:00:00">11</time>.
+            </p>
+            <p>
+               <lb n="13"/>
+               Fresh westly wind blowing
+               <lb n="14"/>
+               &amp; very cold the wind is like
+               <lb n="15"/>
+               the ice~
+            </p>
+            <p>
+               <lb n="16"/>
+               Jassim came at <time when="11:30:00">11 1/2</time>, Alexander
+               <lb n="17"/>
+               says that sister Eliza is better
+               <lb n="18"/>
+               than yesterday, since his mother,
+               <lb n="19"/>
+               &amp; Regina my niece; he spends
+               <lb n="20"/>
+               me a piece of Gruiere cheese
+               <lb n="21"/>
+               which he recieved a whole one
+               <lb n="22"/>
+               of 50 kilos &amp; said it all; I
+               <lb n="23"/>
+               sent a small piece to Eliza
+               <lb n="24"/>
+               &amp; Adoola~
+            </p>
+            <p>
+               <lb n="25"/>
+               The SS Mejidieh left also
+               <lb n="26"/>
+               this morning at <time when="06:00:00">6 a.m.</time>;
+            </p>
+            <p>
+               <lb n="27"/>
+               At p.m. my wife and Rufail
+               <lb n="28"/>
+               came out in the carriage
+               <lb n="29"/>
+               she is much better now,
+               <lb n="30"/>
+               they insisted on me to go
+               <lb n="31"/>
+               back with they, they
+            </p>
+         </div>
+         <pb n="32"/>
+         	<additions style="horizontal" n="2">1908</additions>
+         	<additions style="horizontal" n="4">Jany</additions>
+         	<additions style="horizontal" n="25">Th 6.40</additions>
+         	<additions style="horizontal" n="26"><time when="12:00:00">noon</time> 54</additions>
+         	<additions style="horizontal" n="27"><time when="16:00:00">4 pm</time> 52</additions>
+         <div type="entry" n="1">
+            <p>
+               <lb n="1"/>
+               took tea here, so I collected
+               <lb n="2"/>
+               my kit to go with them;
+               <lb n="3"/>
+               At <time when="16:15:00">4 1/4</time> we left in the carriage
+               <lb n="4"/>
+               took my cook Skander also, and
+               <lb n="5"/>
+               I slighted at Alexander's house
+               <lb n="6"/>
+               &amp; my wife with Rufail went on
+               <lb n="7"/>
+               to her little house; I found Cecile
+               <lb n="8"/>
+               very well but she is kept on diet
+               <lb n="9"/>
+               my sister Eliza is a little better
+               <lb n="10"/>
+               now she takes nourishment &amp;
+               <lb n="11"/>
+               sleeps a little.
+               <lb n="12"/>
+               I had not felt so well today as
+               <lb n="13"/>
+               I was before, because I had eaten
+               <lb n="14"/>
+               for breakfast macaroni &amp;
+               <lb n="15"/>
+               Baamia with meat, arrowroot
+               <lb n="16"/>
+               &amp; some gruiere cheese &amp; this had
+               <lb n="17"/>
+               upset me, but thee Pepsine I
+               <lb n="18"/>
+               am taking is assisting my digestion
+               <lb n="19"/>
+               very well .~
+            </p>
+            <p>
+               <date when="1908-01-09">9 Thurs</date>
+            </p>
+            <p>
+               <lb n="20"/>
+               Light N.W. air &amp; fine
+               <lb n="21"/>
+               cold weather .~
+            </p>
+            <p>
+               <lb n="22"/>
+               At <time when="09:00:00">9 a.m.</time> I called to see sister Eliza
+               <lb n="23"/>
+               I find her a litte better, she
+               <lb n="24"/>
+               takes a little milk &amp; broth and
+               <lb n="25"/>
+               some champagne, but she
+               <lb n="26"/>
+               cannot sleep at night, Dr. Zakhoor
+               <lb n="27"/>
+               came to see her, he has ordered
+               <lb n="28"/>
+               to take the Hinaindi jassos to
+               <lb n="29"/>
+               work her bowels, she wished that
+               <lb n="30"/>
+               Dr. Nizam el Din would come to
+               <lb n="31"/>
+               see her;~ I then went to see my
+               <lb n="32"/>
+               wife, Alexander was in the office,
+               <lb n="33"/>
+               Rufail Sayegh also came,
+               <lb n="34"/>
+               we cut the gruiere cheese
+            </p>
+         </div>
+         <pb n="33"/>
+            <gap reason="missing"></gap>
+         <pb n="34"/>
+            <gap reason="missing"></gap>
+         <pb n="35"/>
+         	<additions style="horizontal" n="25">Th 6.41</additions>
+         <div type="entry" n="1">
+            <p>
+               <lb n="1"/>
+               Jospeh who is always in
+               <lb n="2"/>
+               Europe;~ I went to visit Eliza
+               <lb n="3"/>
+               Abood wife of Hannosh Andria
+               <lb n="4"/>
+               at <time when="13:30:00">1 1/2 p.m.</time> to condole her on
+               <lb n="5"/>
+               the death of her sister Catherine,
+            </p>
+            <p>
+               <lb n="6"/>
+               My wife went to her little house
+               <lb n="7"/>
+               with her cook Abdul Kerim
+               <lb n="8"/>
+               at <time when="14:00:00">2 p.m.</time>~
+            </p>
+            <p>
+               <lb n="9"/>
+               At <time when="15:15:00">3 1/4</time> I tool a Goffa &amp; came
+               <lb n="10"/>
+               down to my house with my
+               <lb n="11"/>
+               cook skaner; found Jassim
+               <lb n="12"/>
+               here alright, Rafooly has sent
+               <lb n="13"/>
+               me more Karabs (Date
+               <lb n="14"/>
+               stamps) making in all
+               <lb n="15"/>
+               about 3,600 at 80 p. per 1000.
+               <lb n="16"/>
+               River has risen more; It rose
+               <lb n="17"/>
+               about 5 feet altogether from
+               <lb n="18"/>
+               its lowest state in summer,
+               <lb n="19"/>
+               S. Ely wind rather fresh and
+               <lb n="20"/>
+               cloudy all over; new moon
+               <lb n="21"/>
+               7 days old.~
+            </p>
+            <p>
+               <date when="1908-01-11">11 Satur</date>
+            </p>
+            <p>
+               <lb n="22"/>
+               Modte N.W. wind and
+               <lb n="23"/>
+               fine cold weather~
+            </p>
+            <p>
+               <lb n="24"/>
+               At <time when="09:00:00">9 am.</time> I called on Eliza
+               <lb n="25"/>
+               &amp; Adola- Wind very cold
+               <lb n="26"/>
+               from N.W.
+            </p>
+            <p>
+               <lb n="27"/>
+               I recieved a letter from
+               <lb n="28"/>
+               Alexander at <time when="14:00:00">2 p.m.</time> he says
+               <lb n="29"/>
+               that sister Eliza is better
+               <lb n="30"/>
+               today;~
+            </p>
+         </div>
+         <pb n="36"/>
+         	<additions style="horizontal" n="1">1908</additions>
+         	<additions style="horizontal" n="3">Jany</additions>
+         	<additions style="horizontal" n="9">Th 6.42</additions>
+         <div type="entry" n="1">
+            <p>
+               <lb n="1"/>
+               Weather became very nice
+               <lb n="2"/>
+               &amp; mild this afternon, I do not
+               <lb n="3"/>
+               feel the cold at all; it is very
+               <lb n="4"/>
+               fine &amp; clear moonlight night.
+            </p>
+            <p>
+               <date when="1908-01-12">12 Sund</date>
+             </p>
+            <p>
+               <lb n="5"/>
+               Light N.W. wind &amp; fine
+               <lb n="6"/>
+               cold weather~
+            </p>
+            <p>
+               <lb n="7"/>
+               The SS. Burchanich passed
+               <lb n="8"/>
+               down at <time when="05:45:00">5 3/4 am.</time>~
+            </p>
+            <p>
+               <lb n="9"/>
+               I had to send Jasssim to town
+               <lb n="10"/>
+               at <time when="07:30:00">7 1/2 am</time> to buy some mutton
+               <lb n="11"/>
+               &amp; I wrote to Alexander too~
+            </p>
+            <p>
+               <lb n="12"/>
+               At <time when="09:00:00">9</time> I called on Eliza &amp; Adoola,
+               <lb n="13"/>
+               Jassim came at <time when="10:00:00">10 am.</time> Alexander
+               <lb n="14"/>
+               also writes to me that they are
+               <lb n="15"/>
+               all well also that sister Eliza is a
+               <lb n="16"/>
+               little better, I get also the paper
+               <lb n="17"/>
+               of the yearly registration of my
+               <lb n="18"/>
+               nationality sent by Mr. Roney
+               <lb n="19"/>
+               for this year &amp; for which I
+               <lb n="20"/>
+               have to pay 89 4. Piasters.
+               <lb n="21"/>
+               The SS Phrat passed up at
+               <lb n="22"/>
+               about <time when="03:00:00">3 am.</time>~
+            </p>
+            <p>
+               <lb n="23"/>
+               Shawl sson of Malem Huzkeil
+               <lb n="24"/>
+               the merchant who is living
+               <lb n="25"/>
+               Stephen Lynch house which
+               <lb n="26"/>
+               he bough a year ago for
+               <lb n="27"/>
+               3500 <gap reason="illegible"></gap> stg. is giving an
+               <lb n="28"/>
+               "At Home" this evening to
+               <lb n="29"/>
+               about 50 persons Europeans
+            </p>
+         </div>
+         <pb n="37"/>
+         	<additions style="horizontal" n="15">Th 6.44</additions>
+         <div type="entry" n="1">
+            <p>
+               <lb n="1"/>
+               as well as natives, This is
+               <lb n="2"/>
+               the first time that a native
+               <lb n="3"/>
+               Jew of Baghdad has don so.
+            </p>
+            <p>
+               <lb n="4"/>
+               I called on Rafooly Tanton,
+               <lb n="5"/>
+               I settled with him the price
+               <lb n="6"/>
+               of the Karab (date stumps)
+               <lb n="7"/>
+               which I got from his three
+               <lb n="8"/>
+               days, 3577 pieces at 75 piast.
+               <lb n="9"/>
+               per 1000 karabs = p. 260
+            </p>
+            <p>
+               <lb n="10"/>
+               Light N.W. air &amp; very
+               <lb n="11"/>
+               fine &amp; mild weather;
+            </p>
+            <p>
+               <date when="1908-01-13">13 Mond</date>
+            </p>
+            <p>
+               <lb n="12"/>
+               Light southerly breeze &amp;
+               <lb n="13"/>
+               some clouds!~
+            </p>
+            <p>
+               <lb n="14"/>
+               At <time when="09:00:00">9 am</time> I called on Eliza &amp; Adoola
+               <lb n="15"/>
+               Clouds cleared off &amp; it is fine
+               <lb n="16"/>
+               &amp; mild calm weather; Ely
+               <lb n="17"/>
+               breeze very light;
+            </p>
+            <p>
+               <lb n="18"/>
+               At <time when="14:00:00">2 p.m.</time> I took my little gun
+               <lb n="19"/>
+               No. 20 &amp; went to Raffoly &amp; took him
+               <lb n="20"/>
+               &amp; came into the garden of Alzahi
+               <lb n="21"/>
+               Bahou where there are some
+               <lb n="22"/>
+               hares <gap reason="illegible"></gap> of sister Medoola
+               <lb n="23"/>
+               with the he started twice two
+               <lb n="24"/>
+               hares but were very far, I
+               <lb n="25"/>
+               followed them &amp; kept going
+               <lb n="26"/>
+               backwards &amp; forwards, I
+               <lb n="27"/>
+               started one and fired twice but
+               <lb n="28"/>
+               it was too far, so I got tired
+               <lb n="29"/>
+               &amp; came back at <time when="15:15:00">3 2/4</time>, it
+               <lb n="30"/>
+               is very warm, too light
+               <lb n="31"/>
+               S. Ely &amp; clouds~
+            </p>
+         </div>
+         <pb n="38"/>
+         	<additions style="horizontal" n="1">1908</additions>
+         	<additions style="horizontal" n="3">Jany</additions>
+         	<additions style="horizontal" n="7">Th 6.42</additions>
+         <div type="entry" n="1">
+            <p>
+               <lb n="1"/>
+               S. Ely breeze &amp; fine weather,
+               <lb n="2"/>
+               The SS. Blosse Lynch passed
+               <lb n="3"/>
+               down at <time when="06:00:00">6 am.</time>~
+            </p>
+            <p>
+               <lb n="4"/>
+               <date when="1908-01-14">14 Tuesd</date>
+               <lb n="5"/>
+               The SS. Phrat also passed
+               <lb n="6"/>
+               down at <time when="08:15:00">8 1/4 am</time>.
+               <lb n="7"/>
+               Today being the festival of
+               <lb n="8"/>
+               Moharram as 10 day of
+               <lb n="9"/>
+               Zelhijjeh month~
+            </p>
+            <p>
+               <lb n="10"/>
+               I sent Jassim to town at <time when="07:30:00">7 1/2</time>
+               <lb n="11"/>
+               to get some meat &amp; bread
+               <lb n="12"/>
+               &amp; wrote to Alexander to tell
+               <lb n="13"/>
+               him that I was coming in
+               <lb n="14"/>
+               the afternoon, in order to go
+               <lb n="15"/>
+               tomorrow &amp; visit Seyd Dawd
+               <lb n="16"/>
+               Effendi son of Seyd Selman.
+               <lb n="17"/>
+               At <time when="09:00:00">9</time> I called on Eliza &amp; Adoola.
+               <lb n="18"/>
+               Jassim brought me the provisions
+               <lb n="19"/>
+               &amp; a letter from Alexander, he
+               <lb n="20"/>
+               says that sister Eliza is a
+               <lb n="21"/>
+               little better as well as all,
+               <lb n="22"/>
+               I had breakfast a boiled
+               <lb n="23"/>
+               fish of Biz, Leben, Potatoes, etc.
+               <lb n="24"/>
+               At <time when="14:15:00">2 1/4 p.m</time>. I sent my cook
+               <lb n="25"/>
+               Skander to town &amp; then I
+               <lb n="26"/>
+               followed also walking.
+               <lb n="27"/>
+               Light N. West &amp; the sun is hot.
+               <lb n="28"/>
+               I got to Alexander's house in
+               <lb n="29"/>
+               45 minutes; they are all well,
+               <lb n="30"/>
+               but Cecile is still keeping a
+               <lb n="31"/>
+               diet on account of a very
+            </p>
+         </div>
+         <pb n="39"/>
+         	<additions style="horizontal" n="17">Th 6.52</additions>
+         <div type="entry" n="1">
+            <p>
+               <lb n="1"/>
+               light diarrhea; Alexander &amp;
+               <lb n="2"/>
+               I went to see his mother, she
+               <lb n="3"/>
+               alright excepts her pain in
+               <lb n="4"/>
+               chest still paining her,
+               <lb n="5"/>
+               Rufail was there; at <time when="17:30:00">5 1/2</time> we
+               <lb n="6"/>
+               left &amp; came home; as Alexander
+               <lb n="7"/>
+               &amp; Marie were to go &amp; visit
+               <lb n="8"/>
+               Mr. Mashkow, also being the
+               <lb n="9"/>
+               new year of Orthodox,
+               <lb n="10"/>
+               &amp; they went at <time when="17:30:00">5 1/2</time> &amp; returned
+               <lb n="11"/>
+               at <time when="19:30:00">7 1/2</time>, there were great many
+               <lb n="12"/>
+               people nearly all the Europeans,
+               <lb n="13"/>
+               they danced &amp; had supper etc,
+            </p>
+            <p>
+               <lb n="14"/>
+               <date when="1908-01-15">15 Wedn</date>
+               <lb n="15"/>
+               Light S. Ely Cloudy,
+               <lb n="16"/>
+               over cast weather~
+            </p>
+            <p>
+               <lb n="17"/>
+               Alexander, Marie &amp; Cecile
+               <lb n="18"/>
+               left the house in a carriage
+               <lb n="19"/>
+               at <time when="07:30:00">7 1/2 a.m.</time> &amp; went to spend
+               <lb n="20"/>
+               the day at my wife, as the
+               <lb n="21"/>
+               Kelkefhis are cleaning the
+               <lb n="22"/>
+               W. closets &amp; Balooa, and
+               <lb n="23"/>
+               the smell is fearful and
+               <lb n="24"/>
+               injurious to Cecile.~ I went
+               <lb n="25"/>
+               at <time when="09:00:00">9</time> to see sister Eliza and
+               <lb n="26"/>
+               found her looking much
+               <lb n="27"/>
+               better, she speaks &amp; take
+               <lb n="28"/>
+               nourishments etc, but she
+               <lb n="29"/>
+               complains of weakness &amp;
+               <lb n="30"/>
+               shortness of breath.
+            </p>
+         </div>
+         <pb n="40"/>
+         	<additions style="horizontal" n="1">1908</additions>
+         	<additions style="horizontal" n="2">Jany</additions>
+         <div type="entry" n="1">
+            <p>
+               <lb n="1"/>
+               I also called on Sister Emilia
+               <lb n="2"/>
+               &amp; then at <time when="11:00:00">11</time> went to fetch
+               <lb n="3"/>
+               Alexander from his office
+               <lb n="4"/>
+               in my wife's house and we
+               <lb n="5"/>
+               went to call on seyd Dowd
+               <lb n="6"/>
+               Effendi in the Sheikh quarter
+               <lb n="7"/>
+               near the mosque of Sheikh
+               <lb n="8"/>
+               Abdulkadur Ghelany, lots
+               <lb n="9"/>
+               of people are also calling
+               <lb n="10"/>
+               to greet him for the holiday
+               <lb n="11"/>
+               we returned to Aelxander
+               <lb n="12"/>
+               house, I got some provisions
+               <lb n="12"/>
+               brought, etc &amp; we came
+               <lb n="13"/>
+               to my wife where we all
+               <lb n="14"/>
+               breakfasted;
+            </p>
+            <p>
+               <lb n="15"/>
+               Weather getting very gloomy
+               <lb n="16"/>
+               &amp; light drizzly rain coming
+               <lb n="17"/>
+               over; Rufail came there,
+               <lb n="18"/>
+               I went with him to see
+               <lb n="19"/>
+               some pumps for sale at
+               <lb n="20"/>
+               Noonoo's shop &amp; we came
+               <lb n="21"/>
+               back; still raining light.
+               <lb n="22"/>
+               I went to go down to my
+               <lb n="23"/>
+               house in a Goffa, but the
+               <lb n="24"/>
+               rain has not ceased,
+               <lb n="25"/>
+               so I took a carriage of
+               <lb n="26"/>
+               Skander Ghaleb &amp; at
+               <lb n="27"/>
+               3 pm left with my cook
+               <lb n="28"/>
+               &amp; came out, still raining
+            </p>
+         </div>
+	<pb n="41"/>
+            <div type="entry" n="1">
+               <additions style="horizontal" n="19">Th 6.43</additions>
+               <p>
+                 <lb n="1"/>
+                  drizzly till <time when="15:30:00">3 1/2 pm</time>.
+               </p>
+               <p>  
+                   <lb n="2"/>
+                  The SS Launch Ishtar
+                  <lb n="3"/>
+                  arrived yesterday at <time when="18:00:00">6 p.m</time>.
+                  <lb n="4"/>
+                  The SS. Ressafah arrived 
+                  <lb n="5"/>
+                  the day before at <time when="15:30:00">3 1/2 p.m.</time>
+                  <lb n="6"/>
+                  I called also this afternoon on
+                  <lb n="7"/>
+                  the Yaghehis son Yosef, his mother
+                  <lb n="8"/>
+                  &amp; Louisa~
+                </p>
+                <p>
+                  <lb n="9"/>
+                  I got the wind &amp; indigestion
+                  <lb n="10"/>
+                  in my stomach since I took
+                  <lb n="11"/>
+                  breakfast, I ate Macaroni
+                  <lb n="12"/>
+                  stewed turnips, &amp; Pilav &amp; then
+                  <lb n="13"/>
+                  some cream with apple pruere. 
+                  <lb n="14"/>
+                  I have not had it since the
+                  <lb n="15"/>
+                  24 ulto; ~I lit the fire in
+                  <lb n="16"/>
+                  my stove as I feel so wet &amp;
+                  <lb n="17"/>
+                  cold from the rain &amp; walking
+                  <lb n="18"/>
+                  in the streets. ~ the whole
+                  <lb n="19"/>
+                  night I had the nausia, heart
+                  <lb n="20"/>
+                  burn &amp; wind~
+               </p>
+               <p>
+                  <lb n="21"/>
+                  North S.W. wind &amp; fine
+                  <lb n="22"/>
+                  cold weather~
+               </p>
+               <p>
+                  <lb n="23"/>
+                  I had the diarrhea at <time when="05:00:00">5 am</time>
+                  <lb n="24"/>
+                  it worked twice very loose, &amp;
+                  <lb n="25"/>
+                  the wind &amp; indigestion too,
+                  <lb n="26"/>
+                  I took my milk &amp; coffee &amp; 
+                  <lb n="27"/>
+                  2 eggs but with an appetite
+                  <lb n="28"/>
+                  Jassim went to town at 
+                  <lb n="29"/>
+                  <time when="08:00:00">8 am</time>. to visit Kazumain,
+                  <lb n="30"/>
+                  I sent a letter to Alexander
+                  <lb n="31"/>
+                  At <time when="09:00:00">9</time> I called on Eliza and
+               </p>
+            </div>
+        <pb n="42"/>
+         <div type="entry" n="1">
+            <additions style="horizontal" n="2">1908</additions>
+            <additions style="horizontal" n="4">Jany</additions>
+            <additions style="vertical" from="8" to="17">Indigestion &amp; vomiting</additions>
+            <additions style="horizontal" n="30">Th 6.34</additions>
+            <p>            
+               <lb n="1"/>
+               Adoola,
+               <lb n="2"/>
+               I took breakfast Potato stew and
+               <add place="margin" n="2">1908</add>
+               <lb n="3"/>
+                then some leben &amp; some silnic
+               <lb n="4"/>
+               (Date juice) but this did not
+               <lb n="5"/>
+               agree with me &amp; again I got
+               <lb n="6"/>
+               the indigestion in the afternoon
+               <lb n="7"/>
+               with much thirst, I took some
+               <lb n="8"/>
+               lemonade but got worse and
+               <lb n="9"/>
+               inclined to vomit, the gastric
+               <lb n="10"/>
+               juice coming out &amp; so at <time when="04:00:00">4</time>
+               <lb n="11"/>
+               I forced myself &amp; vomited
+               <lb n="12"/>
+               sour water, again at <time when="04:30:00">4 1/2</time> I
+               <lb n="13"/>
+               vomited all my breakfast,
+               <lb n="14"/>
+               &amp; felt very thirsty, but I felt
+               <lb n="15"/>
+               better &amp; layed down, till <time when="06:00:00">6</time>
+               <lb n="16"/>
+               when again I felt great thirst,
+               <lb n="17"/>
+               I took Cognac with water
+               <lb n="18"/>
+               but the thirst increased,
+               <lb n="19"/>
+               I remained without any dinner
+               <lb n="20"/>
+               at all &amp; did not leave my room,
+               <lb n="21"/>
+               I only sucked some sweet
+               <lb n="22"/>
+               lemons, but did not quinch my
+               <lb n="23"/>
+               thirst; At <time when="11:30:00">11 1/2</time> my bowels
+                <lb n="24"/>
+                worked very loose, I felt better
+               <lb n="25"/>
+               and slept well~
+            </p>
+            <p>
+               <lb n="26"/>
+               Light N.W. &amp; fine, I feel the
+               <lb n="27"/>
+               thirst awful, &amp; the wind in
+               <lb n="28"/>
+               stomach &amp; intestines
+            </p>
+            <p>
+               <lb n="29"/>
+               The SS Mejidieh passed up
+               <lb n="30"/>
+               at <time when="02:30:00">2 1/2 am</time>.
+            </p>
+            <p>
+               <lb n="31"/>
+               My stomach is bad, wind
+               <lb n="32"/>
+               thirst &amp; indigestion, I took
+           </p>
+        </div>
+        <pb n="43"/>
+        <div type="entry" n="1">
+           <p>
+              <lb n="1"/>
+               my milk &amp; coffee &amp; 2 eggs but
+              <lb n="2"/>
+               without appetite; Bowels worked
+              <lb n="3"/>
+              like water; I feel very cold
+              <lb n="4"/>
+              &amp; thirsty; It must cold that
+              <lb n="5"/>
+              I caught in town while raining
+              <lb n="6"/>
+              yesterday morning in going to
+              <lb n="7"/>
+              Eliza &amp; Adoola~ I made an
+              <lb n="8"/>
+              infusion of Deul seed; orange
+              <lb n="9"/>
+              skins &amp; peppermint leaves &amp;
+              <lb n="10"/>
+              took it hot, I lit the stove
+              <lb n="11"/>
+              in my room, for I feel it very
+              <lb n="12"/>
+              cold; wind blowing sharp
+              <lb n="13"/>
+              N.W. &amp; got cloudy all over since
+              <lb n="14"/>
+              <time when="08:00:00">8 am</time>.; At <time when="11:00:00">11</time> it rained for
+              <lb n="15"/>
+              10 minutes &amp; blew fresh cold
+              <lb n="16"/>
+              N.W. I feel myself so cold &amp;
+              <lb n="17"/>
+              miserable with the stomach
+              <lb n="18"/>
+              ache &amp; indigestion, the thirst
+              <lb n="19"/>
+              is killing me, my tongue is
+              <lb n="20"/>
+              so white &amp; dry~
+           </p>
+           <p>
+              <lb n="21" resp="Alexander Svoboda"/><!--temporary way to indicate where Alexander's portion starts. More development needed-->
+              My poor father
+              <lb n="22"/>
+              died from his complaint
+              <lb n="23"/>
+              at <time when="01:45:00">1 3/4 o'clock</time>
+              <lb n="24"/>
+              a.m. on Sunday morning
+              <lb n="25"/>
+              <date when="1908-01-19">the 19th January 1908.</date>
+           </p>
+        </div>
+        <pb n="44"/>
+        <div type="entry" n="1">
+           <p>
+              <lb n="1"/>
+              On <date when="1908-01-18">the 18th January 1908</date> I
+              <lb n="2"/>
+              received early in the morning
+              <lb n="3"/>
+              a letter unfinished from
+              <lb n="4"/>
+              my father from his country
+              <lb n="5"/>
+              house telling me that
+              <lb n="6"/>
+              he feels bad with his sto-
+              <lb n="7"/>
+              mach ache, but he hopes
+              <lb n="8"/>
+              to be alright &amp; came to town
+              <lb n="9"/>
+              on <date when="1908-01-19">the 19th</date> to visit some
+              <lb n="10"/>
+              friends with him, he also
+              <lb n="11"/>
+              tells me that mama &amp;
+              <lb n="12"/>
+              Rafael have been to see
+              <lb n="13"/>
+              him. At the end of the
+              <lb n="14"/>
+              letter Rafail writes that
+              <lb n="15"/>
+              my father couldn't finish
+              <lb n="16"/>
+              his letter as he was very
+              <lb n="17"/>
+              bad &amp; unable to write
+              <lb n="18"/>
+              since yesterday evening
+              <lb n="19"/>
+              &amp; all the night he was
+              <lb n="20"/>
+              much troubled &amp; I better
+              <lb n="21"/>
+              bring out a carriage to
+              <lb n="22"/>
+              carry him to town.
+           </p>
+        </div>
+        <pb n="45"/>
+        <div type= "entry" n="1">
+           <p>
+              <lb n="1"/>
+              At <time when="08:00:00">8 a.m.</time> the same day
+              <lb n="2"/>
+              I drove out by myself
+              <lb n="3"/>
+              &amp; found my father very
+              <lb n="4"/>
+              weak &amp; complaining from
+              <lb n="5"/>
+              intense ache &amp; cramp of his
+              <lb n="6"/>
+              stomach &amp; that he will never
+              <lb n="7"/>
+              be able to move &amp; go to
+              <lb n="8"/>
+              town. However, with all our
+              <lb n="9"/>
+              possible I decided him
+              <lb n="10"/>
+              to move &amp; helped him
+              <lb n="11"/>
+              to put on his clothes
+              <lb n="12"/>
+              &amp; walked slowly to the
+              <lb n="13"/>
+              carriage with mama
+              <lb n="14"/>
+              Rafail, but poor papa
+              <lb n="15"/>
+              knew that his attack was
+              <lb n="16"/>
+              very severe this time &amp; felt
+              <lb n="17"/>
+              awfully exhausted &amp; when
+              <lb n="18"/>
+              leaving his country house
+              <lb n="19"/>
+              he bid farewell to every place
+              <lb n="20"/>
+              as if he knew it was for
+              <lb n="21"/>
+              the last time he is seeing them.
+              <lb n="22"/>
+              At <time when="10:00:00">10 a.m.</time> we reahed
+              <lb n="23"/>
+              my house in town &amp; at
+           </p>
+        </div>
+        <pb n="46"/>
+        <div type="entry" n="1">
+           <p>
+              <lb n="1"/>
+              put papa in his room
+              <lb n="2"/>
+              which he had in my house.
+              <lb n="3"/>
+              He feels better for a while
+              <lb n="4"/>
+              &amp; didn't accept to have
+              <lb n="5"/>
+              a doctor till sunset when
+              <lb n="6"/>
+              he asked for him. We sent
+              <lb n="7"/>
+              after Dr Nizameldin but he is
+              <lb n="8"/>
+              also sick &amp; my father
+              <lb n="9"/>
+              feeling better we thought
+              <lb n="10"/>
+              that he is going to pass a
+              <lb n="11"/>
+              comfortable night.
+           </p>
+           <p>
+              <lb n="12"/>
+              Mama &amp; Marie left
+              <lb n="13"/>
+              him to sleep at <time when="21:00:00">9 p.m.</time>,
+              <lb n="14"/>
+              but I insisted to sleep
+              <lb n="15"/>
+              in his room. From <time when="21:30:00">9 1/2</time>
+              <lb n="16"/>
+              to nearly midnight papa
+              <lb n="17"/>
+              was <hi rend="underline">extremely</hi> weasy &amp;
+              <lb n="18"/>
+              tossing from a corner to an
+              <lb n="19"/>
+              other feeling his belly puffed
+              <lb n="20"/>
+              &amp; at <time when="23:30:00">11 1/2 p.m.</time> asked me
+              <lb n="21"/>
+              to call mama as he feels 
+           </p>
+        </div>
+        <pb n="47"/>
+        <div type="entry" n="1">
+           <p>
+              <lb n="1"/>
+              very bad. Mama &amp;
+              <lb n="2"/>
+              Marie came &amp; saw him
+              <lb n="3"/>
+              terribly aching &amp; feeling as his
+              <lb n="4"/>
+              stomach was cramped &amp; the
+              <lb n="5"/>
+              wind (which was in reality the
+              <lb n="6"/>
+              sucking of his stomach caused
+              <lb n="7"/>
+              by the bursting of his ulcers)
+              <lb n="8"/>
+              going up &amp; up to his heart.
+              <lb n="9"/>
+              He begged &amp; asked for a
+              <lb n="10"/>
+              doctor so I sent &amp; fetched
+              <lb n="11"/>
+              Dr. Zanko who arrived at
+              <lb n="12"/>
+              <time when="01:00:00">1 a.m.</time> &amp; as soon as he saw
+              <lb n="13"/>
+              my unfortunate father he
+              <lb n="14"/>
+              told me that he was dan
+              <lb n="15"/>
+              gerous &amp; wanted the help
+              <lb n="16"/>
+              of another doctor after whom
+              <lb n="17"/>
+              we at once sent.
+           </p>
+           <p>
+              <lb n="18"/> 
+              Dr Zanko gave papa
+              <lb n="19"/>
+              a big dose of citrate of
+              <lb n="20"/>
+              Magnesia in order to
+              <lb n="21"/>
+              evacuate the wind which
+              <lb n="22"/>
+              fearfully puffed up his
+           </p>
+        </div>
+       <pb n="48"/>
+       <div type="entry" n="1">
+          <p>
+             <lb n="1"/>
+             stomach, belly, breast &amp;
+             <lb n="2"/>
+             throat &amp; now his ears were
+             <lb n="3"/>
+             closed &amp; couldn't hear well,
+             <lb n="4"/>
+             but his strength was alright
+             <lb n="5"/>
+             &amp; he could speak till
+             <lb n="6"/>
+             <time when="01:30:00">1 1/2 a.m.</time> He drunk the
+             <lb n="7"/>
+             dose twice, but the second
+             <lb n="8"/>
+             time he was suffocated
+             <lb n="9"/>
+             by the effervessing of the
+             <lb n="10"/>
+             medicine &amp; fell on his
+             <lb n="11"/>
+             bed nearly unconscious.
+          </p>
+          <p>
+             <lb n="12"/>
+             We ran all to his
+             <lb n="13"/>
+             bed &amp; the doctor declared
+             <lb n="14"/>
+             alas! that my poor beloved
+             <lb n="15"/>
+             papa was agonising &amp; death
+             <lb n="16"/>
+             was near. We shivered
+             <lb n="17"/>
+             at this declaration &amp; in
+             <lb n="18"/>
+             fact agony continued
+             <lb n="19"/>
+             till exactly <time when="01:45:00">1 3/4 a.m.</time>
+             <lb n="20"/>
+             when poor poor father
+          </p>
+       </div>
+       <pb n="49"/>
+       <div type="entry" n="1">
+          <p>
+             <lb n="1"/>
+             rendered his soul to
+             <lb n="2"/>
+             the Almighty his creature amid
+             <lb n="3"/>
+             our showers of fearful
+             <lb n="4"/>
+             tears &amp; indescribable confusion
+             <lb n="5"/>
+             &amp; heartrending!.....
+          </p>
+          <p>
+             <lb n="6"/>
+             Two or three minutes
+             <lb n="7"/>
+             after his death a great quantity
+             <lb n="8"/>
+             of blood poured out from
+             <lb n="9"/>
+             his mouth caused by
+             <lb n="10"/>
+             the bursting of his ulcer
+             <lb n="11"/>
+             in his stomach causing
+             <lb n="12"/>
+             the fatal peritonitis!
+          </p>
+       </div>
+       <pb n="50"/>
+       <div type="entry" n="1">
+          <p>
+             <lb n="1"/>
+             After the unfortunate
+             <lb n="2"/>
+             death of my father
+             <lb n="3"/>
+             I should like to continue
+             <lb n="4"/>
+             here in his diary book
+             <lb n="5"/>
+             the most unfortunate
+             <lb n="6"/>
+             events in our current
+             <lb n="7"/>
+             life, thus following
+             <lb n="8"/>
+             his desire of registering
+             <lb n="9"/>
+             what occurs during
+             <lb n="10"/>
+             our life.
+          </p>
+          <p>
+             <lb n="11"/>
+             <hi rend="underline"><date when="1908-12">Dec. 1908</date></hi>
+             <lb n="12"/>
+             I want to speak
+             <lb n="13"/>
+             here how curiously
+             <lb n="14"/>
+             I inherited from my
+             <lb n="15"/>
+             papa the terrible
+             <lb n="16"/>
+             stomache ache.
+             <lb n="17"/>
+             Six months after
+             <lb n="18"/>
+             his death I felt
+          </p>
+       </div>
+       <pb n="51"/>
+       <div type="entry" n="1">
+          <p>
+             <lb n="1"/>
+             gradually that my
+             <lb n="2"/>
+             stomach becoming very
+             <lb n="3"/>
+             weak &amp; unable to
+             <lb n="4"/>
+             digest the aliments.
+             <lb n="5"/>
+             I saw all the doctors
+             <lb n="6"/>
+             but without any success,
+             <lb n="7"/>
+             medicines render me
+             <lb n="8"/>
+             worse &amp; my state of health
+             <lb n="9"/>
+             is sinking daily. I do
+             <lb n="10"/>
+             not feel a local pain
+             <lb n="11"/>
+             but general easiness
+             <lb n="12"/>
+             &amp; awful state of mind
+             <lb n="13"/>
+             added by my impossibility
+             <lb n="14"/>
+             to eat or drink any
+             <lb n="15"/>
+             nourishing aliments.
+             <lb n="16"/>
+             The crisis of my stomache
+             <lb n="17"/>
+             ache comes twice or thrice
+             <lb n="18"/>
+             a month, thus being
+          </p>
+       </div>
+       <pb n="52"/>
+       <div type="entry" n="1">
+          <head><hi rend="underline">What I possess</hi></head>
+          <p>
+          <lb n="1"/>
+          <hi rend="underline">1. <date when="1912-12">January 1912</date></hi>
+          </p>
+          <table>
+             <row> <cell>The country house valued at</cell> <cell>??1500</cell> <cell></cell> <cell></cell> </row>
+             <row> <cell>in the arac business I have put in all</cell> <cell>"2500</cell> <cell></cell> <cell></cell> </row>
+             <row> <cell>I received from Panachi &amp; King interest with them</cell> <cell><hi rend="underline">1500</hi></cell> <cell></cell> <cell></cell> </row>
+             <row> <cell></cell> <cell>5500</cell> <cell></cell> <cell></cell> </row>
+             <row> <cell>From the sum I owe to the father</cell> <cell><hi rend="underline">300</hi></cell> <cell></cell> <cell></cell> </row>
+             <row> <cell></cell> <cell>5200</cell> <cell></cell> <cell></cell> </row>
+             <row> <cell>Besides the profit in arac which must be added &amp; reconed at about</cell> <cell><hi rend="underline">800</hi></cell> <cell></cell> <cell></cell> </row>
+             <row> <cell></cell> <cell>??6000</cell> <cell></cell> <cell></cell> </row>
+          </table>
+       </div>
+</body>
+	</text>
+</TEI>
