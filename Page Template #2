@@ -36,7 +36,7 @@
 		<div type="entry" n="1"> 
 	   	<additions style="horizontal" n="7">Th 6.46</additions>
 	   	<additions style="horizontal" n="8"><time when="12:00:00">noon</time> 52</additions>
-	   	<additions style="horizontal" n="9"><time when="04:00:00">4 p.m.</time> 54</additions>
+	   	<additions style="horizontal" n="9"><time when="16:00:00">4 p.m.</time> 54</additions>
 	   	<additions style="vertical" n="11">Indigestion &amp; vomiting</additions>
             <p>	
 	                <lb n="1"/>
@@ -50,7 +50,7 @@
 	                <lb n="4"/>
 			24 Sund
 			<lb n="5"/>
-		        At about <time when="02:30:00">2 1/2</time> the <gap reason="illegible"/>
+		        At about <time when="14:30:00">2 1/2</time> the <gap reason="illegible"/>
 	   	</p>
 	   	<p>
 	                <lb n="6"/>
