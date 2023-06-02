@@ -1,0 +1,817 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tei_sdp%20(20).rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader> <!--Just added the header from the github for the starting part of the document -->
+        <fileDesc>
+            <titleStmt>
+                <title>Diary 61: December 1907-January 1908</title>
+                <author>Joseph Matia Svoboda</author>
+                <author>Alexander Svoboda</author>
+                <sponsor>Iraq National Manuscript Center</sponsor>
+                <funder>University of Washington Royalty Research Fund</funder>
+                <principal>Walter G. Andrews</principal>
+                <respStmt>
+                    <resp>Arabic to English translation</resp>
+                    <name>Nowf Allawi</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Newbook Digital Texts</publisher>
+                <idno type="NewbookDigitalTextsID"> </idno> <!-- email sent about this to UW Libraries -->
+                <availability status="unpublished">
+                    <p>
+                        Joseph Mathia Svoboda Diaries by Newbook Digital Texts is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. Based on a work at https://digital.lib.washington.edu/researchworks/handle/1773/34970. Permissions beyond the scope of this license may be available at http:/depts.washington.edu/ndth.
+                    </p>
+                </availability>
+                <date when="2006">2006</date>
+            </publicationStmt>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>
+                    The Svoboda Diaries Project began in 2006 as a project under the umbrella of the Ottoman Texts Archive Project (OTAP). Throughout the project’s history, we have focused on the digitization of the journals of two members of the Svoboda family, Joseph Svoboda and his son Alexander. The Joseph Mathia Svoboda diaries capture over 40 years of trade on the Tigris, life, politics, and the landscape of Ottoman Iraq through the perspective of a British steamship purser with a rich family history and local connections.
+                </p>
+            </projectDesc>
+            <schemaSpec ident="tei_sdp" start="TEI" prefix="tei_" targetLang="en" docLang="en"> <!--need to find someone to confirm this is accurate-->
+            </schemaSpec>
+        </encodingDesc>
+        <profileDesc>
+            <abstract>
+                <p>
+                    In Diary 61, Joseph Svoboda details the events in his private life between December 1907 through January 1908, and Alexander Svoboda continues writing until the end of the year.  A majority of the diary consists of Joseph detailing the illnesses of various family members until he himself dies on January 19th, 1908.
+                </p>
+            </abstract>
+            <creation>
+                <date from="1907-12"  to="1908-01">December 1907 to January 1908</date>
+            </creation>
+            <langUsage>
+                <language ident="en-GB">English</language>
+                <language ident="ar-SA">Arabic</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/> <!-- Page 1--> <!-- This appears to actually be from the previous diary but it was in the transcript so i included it the actual jounral seems to start at page 3-->
+                <div type="entry" n="1">
+                    <p>
+                        <lb n="1"/>
+                            continued from Diary
+                        <lb n="2"/>
+                            No.60 of 1907;
+                    </p>
+                    <p>
+                        <lb n="1"/>
+                            Diary NR 61
+                        <lb n="2"/>
+                        1907/08
+                    </p>
+                </div>
+            
+            <pb n="2"/> <!-- Page 2-->
+                <div type="entry" n="1">
+                    <p>
+                        <lb n="1"/>
+                        <date when ="1908-01">January 1908</date>
+                    </p>
+                        <table>
+                            <row> <cell>500</cell> <cell>Rufail</cell> <cell></cell> <cell></cell> </row>
+                            <row> <cell>500</cell> <cell>Candida Suakhander</cell> <cell></cell> <cell></cell> </row>
+                            <row> <cell>500</cell> <cell>Awasha Pachachy</cell> <cell></cell> <cell></cell> </row>
+                            <row> <cell>500</cell> <cell>Eliahoo Denoos</cell> <cell></cell> <cell></cell> </row>
+                            <row> <cell>500</cell> <cell>Naman Pachachy</cell> <cell></cell> <cell></cell> </row>
+                            <row> <cell>325</cell> <cell>_Dto_ Dto_</cell> <cell></cell> <cell></cell> </row>
+                            <row> <cell>150</cell> <cell>Rezooki Nakar</cell> <cell></cell> <cell></cell> </row>
+                            <row> <cell>150</cell> <cell>Seyd Ali Zowayed</cell> <cell></cell> <cell></cell> </row>
+                            <row> <cell>300</cell> <cell>Rezooki Sayegh</cell> <cell></cell> <cell></cell> </row>
+                            <row> <cell>120</cell> <cell>Lent to Alexander</cell> <cell></cell> <cell></cell> </row>
+                            <row> <cell>[underlined 200]</cell> <cell>Cash</cell> <cell></cell> <cell></cell> </row>
+                            <row> <cell>3,695</cell> <cell> </cell> <cell></cell> <cell></cell> </row>
+                        </table>
+                </div>
+            
+            <pb n="3"/> <!-- Page 3-->
+                <div type="entry" n="1">
+                    <additions style="horizontal" n="1">Th 6.46</additions>
+                    <additions style="horizontal" n="2"><date when ="1907">1907</date></additions>
+                    <additions style="horizontal" n="7"><time when="12:00:00">noon</time> 62</additions>
+                    <additions style="horizontal" n="8"><time when="16:00:00">4 p.m.</time> 64</additions>
+                    <p>
+                        <lb n="1"/>
+                        Subsection: 18 Wednes
+                        <lb n="2"/>
+                        I arrived from my house at <time when="14:30:00">2 2/4</time>
+                        <lb n="3"/>
+                        p.m. walking, found Cecile
+                        <lb n="4"/>
+                        being shifted to an attic
+                        <lb n="5"/>
+                        room, but she did not like
+                        <lb n="6"/>
+                        the change; her fever is very
+                        <lb n="7"/>
+                        high again more than any
+                        <lb n="8"/>
+                        day 41 <gap reason="illegible"/> Cent. &amp; is restless with 
+                        <lb n="9"/>
+                        pain below the neck on the chest;
+                        <lb n="10"/>
+                        Alexander &amp; Marie much
+                        <lb n="11"/>
+                        alarmed &amp; weeping; She
+                        <lb n="12"/>
+                        wont take any milk or
+                        <lb n="13"/>
+                        other aliment~ at 4 she
+                        <lb n="14"/>
+                        felt more composing &amp; drowsy.
+                        <lb n="15"/>
+                        She slept a little, she is getting
+                        <lb n="16"/>
+                        weak though;~ at <time when="16:15:00">4 1/4 </time>
+                        <lb n="17"/>
+                        Nizam el Din came &amp; examined
+                        <lb n="18"/>
+                        &amp; tapped Cecile, he found that
+                        <lb n="19"/>
+                        all the organs are sound &amp;
+                        <lb n="20"/>
+                        not affected the least, such
+                        <lb n="21"/>
+                        as the heart, liver, kidneys etc
+                        <lb n="22"/>
+                        except the seat of lung where
+                        <lb n="23"/>
+                        the pneumonia exists on one
+                        <lb n="24"/>
+                        side (the right), this proved
+                        <lb n="25"/>
+                        that the malady had not
+                        <lb n="26"/>
+                        been complicated or
+                        
+                    </p>
+                </div>
+            
+            <pb n="4"/> <!-- Page 4-->
+                <div type="entry" n="1">
+                    <additions style="horizontal" n="1"><date when ="1907">1907</date></additions>
+                    <additions style="horizontal" n="2">Decr</additions>
+                    <p>
+                        <lb n="1"/>
+                        affected any other part which
+                        <lb n="2"/>
+                        is a good sign, the temperature
+                        <lb n="3"/>
+                        of the fever is the same as
+                        <lb n="4"/>
+                        this morning Vg 40 1/4,
+                        <lb n="5"/>
+                        he prescribed the same medicine
+                        <lb n="6"/>
+                        as Ipecanuanha Ammonia etc
+                        <lb n="7"/>
+                        to be taken 3 times every 3
+                        <lb n="8"/>
+                        hours; Enima &amp; friction as
+                        <lb n="9"/>
+                        usual &amp; hopes that tomorrow
+                        <lb n="10"/>
+                        or the day after an ammilionatia
+                        <lb n="11"/>
+                        will be shown;~ But
+                        <lb n="12"/>
+                        Marie is mad &amp; she began
+                        <lb n="13"/>
+                        to weep &amp; got into an awful
+                        <lb n="14"/>
+                        state of mind; &amp; nearly fainting
+                        <lb n="15"/>
+                        Dr. Nizam el Din tried very much
+                        <lb n="16"/>
+                        to assure her of Cecile's malady
+                        <lb n="17"/>
+                        not being serious &amp; to calm
+                        <lb n="18"/>
+                        her down but to no use, She
+                        <lb n="19"/>
+                        would have him come again
+                        <lb n="20"/>
+                        at night time which he promised
+                        <lb n="21"/>
+                        to do so~ Towards <time when="17:00:00">5 p.m.</time>
+                        <lb n="22"/>
+                        Cecile was very calm and
+                        <lb n="23"/>
+                        the fever aborted &amp; she slept
+                        <lb n="24"/>
+                        quietly;~ At <time when="21:00:00">9</time> Dr Nizam el
+                        <lb n="25"/>
+                        Din came but he did see her
+                        <lb n="26"/>
+                        we sat in the siting room
+                        <lb n="27"/>
+                        and told hm that Cecile was
+                        <lb n="28"/>
+                        asleep &amp; reposed;
+                    </p>
+                </div>
+            
+            <pb n="5"/> <!-- Page 5-->
+                <div type="entry" n="1">
+                    <additions style="horizontal" n="7">Th 6.64</additions>
+                    <additions style="horizontal" n="8"><time when="12:00:00">noon</time> 63</additions>
+                    <additions style="horizontal" n="9"><time when="16:00:00">4 p.m.</time> 65</additions>
+                    <p>
+                        <lb n="1"/>
+                        He left at <time when="22:00:00">10</time> quite satisfied.
+                        <lb n="2"/>
+                        Fresh S. Ely wind blowing
+                        <lb n="3"/>
+                        all the night~
+                    </p>
+                    <p>
+                        <lb n="4"/>
+                        Subsection: 19 Thursd
+                        <lb n="5"/>
+                        Strong S. Ely wind &amp;
+                        <lb n="6"/>
+                        cloudy weather;
+                    </p>
+                    <p>
+                        <lb n="7"/>
+                        Cecile slept well till <time when="02:00:00">2 a.m.</time>,
+                        <lb n="8"/>
+                        she is much better, her
+                        <lb n="9"/>
+                        bowels worked by an injection
+                        <lb n="10"/>
+                        &amp; seems to feel much relief,
+                        <lb n="11"/>
+                        she is composed, has appetite,
+                        <lb n="12"/>
+                        but the fever came on the
+                        <lb n="13"/>
+                        same temperature 40°.
+                        <lb n="14"/>
+                        Dr. Nizam el Din came at <time when="08:00:00">8</time>
+                        <lb n="15"/>
+                        he examined her &amp; found
+                        <lb n="16"/>
+                        an advance in recovery &amp;
+                        <lb n="17"/>
+                        ordered the same medicine,
+                        <lb n="18"/>
+                        also injection at noon, &amp;
+                        <lb n="19"/>
+                        <gap reason="illegible"/> &amp; a change of places
+                        <lb n="20"/>
+                        for few hours; she takes
+                        <lb n="21"/>
+                        some broth, milk, oranges,
+                        <lb n="22"/>
+                        and he also ordered a fire
+                        <lb n="23"/>
+                        to be put in the room to
+                        <lb n="24"/>
+                        warm it;~
+                    </p>
+                    <p>
+                        <lb n="25"/>
+                        I called to see sister Eliza who
+                        <lb n="26"/>
+                        is still very weak &amp; has not slept
+                        <lb n="27"/>
+                        last night at all, she does not
+                        <lb n="28"/>
+                        eat anything, Dr. Zakhans has
+                        <lb n="29"/>
+                        ordered an epema as she is
+                        <lb n="30"/>
+                        constipated~ I also called
+                        <lb n="31"/>
+                        on Menusha &amp; Ganie house
+                        <lb n="32"/>
+                        at <time when="10:00:00">10</time>, founds Rufail Sayegh
+                    </p>
+                </div>
+            
+            <pb n="6"/> <!-- Page 6-->
+                <div type="entry" n="1">
+                    <additions style="horizontal" n="2"><date when ="1907">1907</date></additions>
+                    <additions style="horizontal" n="3">Decr</additions>
+                    <p>
+                        <lb n="1"/>
+                        Cecile was shifted to my room
+                        <lb n="2"/>
+                        for two hours &amp; took her back
+                        <lb n="3"/>
+                        again, her fever still continues
+                        <lb n="4"/>
+                        an injection was made and
+                        <lb n="1"/>
+                        the medicine administered,
+                        <lb n="1"/>
+                        But she got restless at <time when="11:00:00">11 am</time>,
+                        <lb n="1"/>
+                        she wont take anything and
+                        <lb n="1"/>
+                        complains of heat &amp; pain on
+                        <lb n="1"/>
+                        the right side, again Alexander
+                        <lb n="1"/>
+                        &amp; Marie were mad and
+                        <lb n="1"/>
+                        weeping; Cecile wanted the
+                        <lb n="1"/>
+                        doctor Nizam el Din to come,
+                        <lb n="1"/>
+                        they sent for him at <time when="13:00:00">1 p.m.</time>
+                        <lb n="1"/>
+                        Today being the birthday of
+                        <lb n="1"/>
+                        the Emperor of Russia Nicola
+                        <lb n="1"/>
+                        the II, Mr Mashkow The Russian
+                        <lb n="1"/>
+                        Consul had a reception.
+                        <lb n="1"/>
+                        Dr. Nizam el Din came at <time when="15:00:00">3 p.m.</time>
+                        <lb n="1"/>
+                        saw Cecile &amp; <gap reason="illegible"/> her, he
+                        <lb n="1"/>
+                        says that there is some change
+                        <lb n="1"/>
+                        for the better since this morning,
+                        <lb n="1"/>
+                        &amp; hopes if she continues so,
+                        <lb n="1"/>
+                        in 3 days more everything will
+                        <lb n="1"/>
+                        pass; he prescribed the same
+                        <lb n="1"/>
+                        medicine of Ipecagnomtre &amp;
+                        <lb n="1"/>
+                        carbonate of ammonia &amp; the
+                        <lb n="1"/>
+                        same treatment, &amp; will come
+                        <lb n="1"/>
+                        again at <time when="21:00:00">9 p.m.</time> &amp; tomorrow
+                        <lb n="1"/>
+                        will bring Dr. Macconaghi
+                        <lb n="1"/>
+                        if we want~
+                    </p>
+                    <p>
+                        <lb n="1"/>
+                        Monsingeur Jean Drnex
+                    </p>
+                </div>
+            
+            <pb n="7"/> <!-- Page 7-->
+                <div type="entry" n="1">
+                    <additions style="horizontal" n="15">Th 6.52</additions>
+                    <additions style="horizontal" n="16"><time when="12:00:00">noon</time> 54</additions>
+                    <additions style="horizontal" n="17"><time when="16:00:00">4 p.m.</time> 53</additions>
+                    <p>
+                        <lb n="1"/>
+                        also called to see Cecile,
+                        <lb n="2"/>
+                        She felt quieter at <time when="16:00:00">4 p.m.</time>
+                        <lb n="3"/>
+                        &amp; is dozing off to sleep.
+                        <lb n="4"/>
+                        The SS Blosse Lynch arrived
+                        <lb n="5"/>
+                        at <time when="17:00:00">5 p.m.</time>~
+                        <lb n="6"/>
+                        Dr. Nizam el Din came
+                        <lb n="7"/>
+                        again at <time when="21:00:00">9</time>, but he did not
+                        <lb n="8"/>
+                        visit Cecile as she was
+                        <lb n="9"/>
+                        asleep &amp; quiet, he left at <time when="22:00:00">10.</time>
+                        <lb n="10"/>
+                        Weather  cloudy &amp; S. Ely
+                        <lb n="11"/>
+                        wind-
+                        <lb n="12"/>
+                    </p>
+                    <p>
+                        <lb n="13"/>
+                        Subsection: 20 Frid
+                        <lb n="14"/>
+                        At <time when="01:00:00">1 a.m.</time> it rained for
+                        <lb n="15"/>
+                        about 1/2 hour, drizzly;~
+                        <lb n="16"/>
+                        Cecile is sleeping well and
+                        <lb n="17"/>
+                        very quiet, I did not got to see
+                        <lb n="18"/>
+                        her at Alexander &amp; Marie for
+                        <lb n="19"/>
+                        fear of disturbing them,
+                        <lb n="20"/>
+                        at <time when="06:00:00">6</time> I went &amp; found Cecile
+                        <lb n="21"/>
+                        much better, she has very
+                        <lb n="22"/>
+                        little fever, her pulse is 100 per
+                        <lb n="23"/>
+                        minute, temperature of fever 
+                        <lb n="24"/>
+                        38 1/2°, her breath is 32 per
+                        <lb n="25"/>
+                        minute; She looks more
+                        <lb n="26"/>
+                        cheerful &amp; desiring to take
+                        <lb n="27"/>
+                        some nourishment; We
+                        <lb n="28"/>
+                        were all so very glad and
+                        <lb n="29"/>
+                        happy;~ Dr. Nizam el Din
+                        <lb n="30"/>
+                        came at <time when="08:00:00">8 a.m.</time> &amp; found Cecile
+                        <lb n="31"/>
+                        much better and he sounded
+                    </p>
+                </div>
+            
+            <pb n="8"/> <!-- Page 8-->
+                <div type="entry" n="1">
+                    <additions style="horizontal" n="2"><date when ="1907">1907</date></additions>
+                    <additions style="horizontal" n="3">Decr</additions>
+                    <p>
+                        <lb n="1"/>
+                        ha, he found that the part behind
+                        <lb n="2"/>
+                        on the shoulders has quite disappeared
+                        <lb n="3"/>
+                        &amp; that as the fore part or chest
+                        <lb n="4"/>
+                        a very little of it exists, and as
+                        <lb n="5"/>
+                        today is the 6th day, all danger
+                        <lb n="6"/>
+                        has passed, but great care
+                        <lb n="7"/>
+                        must be taken from cold
+                        <lb n="8"/>
+                        or draft, &amp; the same treatment
+                        <lb n="9"/>
+                        as before to be resorted to.
+                        <lb n="10"/>
+                        He went away very satisfied.
+                        <lb n="11"/>
+                        Weather cleared up and
+                        <lb n="12"/>
+                        became very fine &amp; cold.
+                        <lb n="13"/>
+                        Rafooly, Tanton, Terrooza, my
+                        <lb n="14"/>
+                        niece etc call in~
+                   </p>
+                   <p>
+                        <lb n="15"/>
+                       At <time when="15:00:00">3 p.m.</time> I went to see my Sister
+                        <lb n="16"/>
+                        Eliza, she is still very weak
+                        <lb n="17"/>
+                        &amp; unable to eat anything and
+                        <lb n="18"/>
+                        feels her stomach out of order
+                        <lb n="19"/>
+                        she cannot lift her head and
+                        <lb n="20"/>
+                        always drowsy, Dr. Zakhoor
+                        <lb n="21"/>
+                        is attending her~
+                     </p>
+                     <p>
+                        <lb n="22"/>
+                        Rufail Sayegh, Rezooki Andria,
+                        <lb n="23"/>
+                        Madam Ezra Daniel, the french
+                        <lb n="24"/>
+                        nuns etc called~
+                        <lb n="25"/>
+                        Dr. Nizam el Din came at
+                        <lb n="26"/>
+                         <time when="16:30:00">4 1/2</time>, he found Cecile better,
+                        <lb n="27"/>
+                        her fever 39° increased
+                        <lb n="28"/>
+                        1/2 degree this afternoon                      
+                    </p>
+                </div>
+            
+            <pb n="9"/> <!-- Page 9-->
+                <div type="entry" n="1">
+                    <additions style="horizontal" n="18">Th 6.50</additions>
+                    <additions style="horizontal" n="19"><time when="12:00:00">noon</time> 56</additions>
+                    <additions style="horizontal" n="20"><time when="16:00:00">4 p.m.</time> 57</additions>
+                    <p>
+                        <lb n="1"/>
+                        &amp; prescribed the same medicine
+                        <lb n="2"/>
+                        as before &amp; said tomorrow
+                        <lb n="3"/>
+                        she will feel still better.
+                        <lb n="4"/>
+                        Weather cold &amp; very fine
+                    </p>
+                    <p>
+                        <lb n="5"/>
+                        Mr. Richarz called at <time when="17:30:00">5 1/2</time>
+                        <lb n="6"/>
+                        to visit Alexander &amp; Marie, he
+                        <lb n="7"/>
+                        does not know of Cecile's illness,
+                        <lb n="8"/>
+                        I sat only with him; Alexander
+                        <lb n="9"/>
+                        &amp; Marie were in the room
+                        <lb n="10"/>
+                        with Cecile &amp; did not come
+                        <lb n="11"/>
+                        nor my wife, he left at <time when="18:00:00">6</time>;
+                        <lb n="12"/>
+                        Cecile slept at <time when="19:00:00">7</time> &amp; is very
+                        <lb n="13"/>
+                        quiet, with very little fever.
+                        <lb n="14"/>
+                        Section: 21 Satur
+                        <lb n="15"/>
+                        Light N.W. &amp; very fine
+                        <lb n="16"/>
+                        cold weather~
+                    </p>
+                    <p>
+                        <lb n="17"/>
+                        Cecile is well, has no fever
+                        <lb n="18"/>
+                        but is very weak, &amp; wants
+                        <lb n="19"/>
+                        to eat; she slept well also.
+                        <lb n="20"/>
+                        Dr. Nizam el Din came to see
+                        <lb n="21"/>
+                        her, he found her well and
+                        <lb n="22"/>
+                        no trace is left of the pneumonia
+                        <lb n="23"/>
+                        on her chest her temperature
+                        <lb n="24"/>
+                        fell to 37° which is lowest
+                        <lb n="25"/>
+                        normal state he recommended
+                        <lb n="26"/>
+                        a spoonful of Champagne with
+                        <lb n="27"/>
+                        the tea &amp; milk, which she
+                        <lb n="28"/>
+                        took~ my wife wanted
+                        <lb n="29"/>
+                        him to see her about her
+                        <lb n="30"/>
+                        cold in chest &amp; has cough
+                        <lb n="31"/>
+                        &amp; pain, he examined                       
+                    </p>
+                </div>
+            
+            <pb n="10"/> <!-- Page 10-->
+                <div type="entry" n="1">
+                    <additions style="horizontal" n="1"><date when ="1907">1907</date></additions>
+                    <additions style="horizontal" n="3">Decr</additions>
+                    <additions style="horizontal" n="24">Th 6.44</additions>
+                    <additions style="horizontal" n="25"><time when="12:00:00">noon</time> 52</additions>
+                    <additions style="horizontal" n="26"><time when="16:00:00">4 p.m.</time> 54</additions>
+                    <p>
+                        <lb n="1"/>
+                        her &amp; found nothing serious, he
+                        <lb n="2"/>
+                        ordered Openuis pills to be
+                        <lb n="3"/>
+                        taken now, &amp; work her bowels
+                        <lb n="4"/>
+                        &amp; see how she feels afterward,
+                        <lb n="5"/>
+                        He wont accept from me the
+                        <lb n="6"/>
+                        fees of 1 Mej which I tried
+                        <lb n="7"/>
+                        much to give him~ I
+                        <lb n="8"/>
+                        gave my wife 2 tablets of the
+                        <lb n="9"/>
+                        Rectanrateur de la Sante"
+                        <lb n="10"/>
+                        I called on Sister Emilia
+                        <lb n="11"/>
+                        at <time when="10:00:00">10 a.m.</time>~
+                   </p>
+                   <p>
+                        <lb n="12"/>
+                       At <time when="15:00:00">3 p.m.</time> I went to see Rufail
+                        <lb n="13"/>
+                        &amp; the Marines &amp; took milk and
+                        <lb n="14"/>
+                       coffee there &amp; returned at <time when="16:30:00">4 1/2</time>
+                        <lb n="15"/>
+                        Cecile is well, but she is getting
+                        <lb n="16"/>
+                        so noisy &amp; want to eat every
+                        <lb n="17"/>
+                        thing, she still coughs and
+                        <lb n="18"/>
+                        has a little fever, but she
+                        <lb n="19"/>
+                        is convalesced;~
+                  </p>
+                  <p>
+                        <lb n="20"/>
+                        Weather fine &amp; cold;~
+                  </p>
+                  <p>
+                        <lb n="21"/>
+                        Subsection: 22 Sund
+                        <lb n="22"/>
+                        Light N.W. &amp; fine cold
+                        <lb n="23"/>
+                        weather~
+                  </p>
+                  <p>
+                        <lb n="24"/>
+                        The SS Blosse Lynch left
+                        <lb n="25"/>
+                      at <time when="05:30:00">5 1/2 a.m.</time>~
+                  </p>
+                  <p>
+                        <lb n="26"/>
+                        Cecile is well, she is very
+                        <lb n="27"/>
+                        weak only~
+                  </p>
+                  <p>
+                        <lb n="28"/>
+                      At <time when="09:00:00">9</time> I went to the Latin Church,
+                        <lb n="29"/>
+                        I then called on the Marines
+                        <lb n="30"/>
+                        &amp; Ruphail- also
+                    </p>
+                </div>
+            
+            <pb n="11"/> <!-- Page 11-->
+                <div type="entry" n="1"> 
+                    <p>
+                        <lb n="1"/>
+                        with Rezooki Andria went to
+                        <lb n="2"/>
+                        visit Righa  my niece
+                        <lb n="3"/>
+                        she is living with Guiseppina,
+                        <lb n="4"/>
+                        her sister, she is in bed with
+                        <lb n="5"/>
+                        hard cold &amp; influenza
+                        <lb n="6"/>
+                        Called also to see my sister
+                        <lb n="7"/>
+                        Eliza, but she is still very
+                        <lb n="8"/>
+                        weak &amp; drowsy, she cannot
+                        <lb n="9"/>
+                        eat any thing has no appetite
+                        <lb n="10"/>
+                        &amp; does not sleep at night,
+                        <lb n="11"/>
+                        Dr. Madonaghy gave her
+                        <lb n="12"/>
+                        some medicine, but she
+                        <lb n="13"/>
+                        does not find any change,
+                        <lb n="14"/>
+                        I am afraid she is sinking
+                        <lb n="15"/>
+                        down, she is so old too,
+                        <lb n="16"/>
+                        just 77 years~ I came
+                        <lb n="17"/>
+                        home at <time when="11:30:00">11 1/2</time>; Dr. Nizam
+                        <lb n="18"/>
+                        el Din has been to see
+                        <lb n="19"/>
+                        Cecile, he ordered some food
+                        <lb n="20"/>
+                        to take as arrowroot, biscuit,
+                        <lb n="21"/>
+                        &amp; also some medicine~
+                        <lb n="22"/>
+                        I called on Mrs. Cowley but
+                        <lb n="23"/>
+                        was told that she was not
+                        <lb n="24"/>
+                        at home~ Louise, Harriette,
+                        <lb n="25"/>
+                        Johnny, Duncan Alexander,
+                        <lb n="26"/>
+                        &amp; Rezooki Andria called on me,
+                        <lb n="27"/>
+                        also Antoin Juliette~
+                    </p>
+                    <p>
+                        <lb n="28"/>
+                        Light N.W. &amp; very fine cold
+                        <lb n="29"/>
+                        weather~                      
+                    </p>
+                </div>
+            
+            <pb n="12"/> <!-- Page 12-->
+                <div type="entry" n="1">
+                    <additions style="horizontal" n="2"><date when ="1907">1907</date></additions>
+                    <additions style="horizontal" n="3">Decr</additions>
+                    <additions style="horizontal" n="7">Th 6.46</additions>
+                    <additions style="horizontal" n="8"><time when="12:00:00">noon</time> 52</additions>
+                    <additions style="horizontal" n="9"><time when="04:00:00">4 a.m.</time> 54</additions>
+                    <p>
+                        <lb n="1"/>
+                        Subsection: 23 Mond
+                        <lb n="2"/>
+                        Light N.W. breeze &amp; very fine
+                        <lb n="3"/>
+                        Cold weather~
+                    </p>
+                    <p>
+                        <lb n="4"/>
+                        Cecile is well, she is very weak
+                        <lb n="5"/>
+                        &amp; wants to eat every thing, we
+                        <lb n="6"/>
+                        are giving her arrowroot, milk,
+                        <lb n="7"/>
+                        tea, biscuit etc~
+                    </p>
+                    <p>
+                        <lb n="8"/>
+                        I called on Menusha at <time when="10:00:00">10 a.m.</time>
+                        <lb n="9"/>
+                        and then went to see sister Eliza
+                        <lb n="10"/>
+                        she is very weak &amp; takes nothing
+                        <lb n="11"/>
+                        &amp; has not slept last night,
+                        <lb n="12"/>
+                        she feels her stomach not
+                        <lb n="13"/>
+                        right &amp; the gastric juice is
+                        <lb n="14"/>
+                        coming out, they sent to
+                        <lb n="15"/>
+                        fetch Dr Mac Conaghy, he
+                        <lb n="16"/>
+                        is coming in the evening;
+                        <lb n="17"/>
+                        I feel well since 7 days
+                        <lb n="18"/>
+                        no wind or indigestion,
+                        <lb n="19"/>
+                        am eating every thing
+                        <lb n="20"/>
+                        &amp; do not feel any drowsiness.
+                        <lb n="21"/>
+                        I took the <gap reason="illegible"/>
+                        <lb n="22"/>
+                        with the nun Vanica &amp;
+                        <lb n="23"/>
+                        Bella Demia every morning,
+                        <lb n="24"/>
+                        Rufail Sayegh called on us
+                        <lb n="25"/>
+                        at <time when="15:00:00">3 p.m.</time>~
+                    </p>
+                    <p>
+                        <lb n="26"/>
+                        Weather became very cold
+                        <lb n="27"/>
+                        at sunset. I am so shivering
+                        <lb n="28"/>
+                        &amp; cannot stand it~
+                    </p>
+                    <p>
+                        <lb n="29"/>
+                        I felt my stomach unwell
+                        <lb n="30"/>
+                        toward evening, &amp; after having
+                        <lb n="31"/>
+                        taken my dinner I felt                        
+                    </p>
+                </div>
+        </body>
+    </text>
+</TEI>
